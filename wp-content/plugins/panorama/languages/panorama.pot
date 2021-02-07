@@ -1,0 +1,328 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: the-ocean\n"
+"POT-Creation-Date: 2019-06-17 15:33+0530\n"
+"PO-Revision-Date: 2018-12-13 15:00+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;_n;esc_html__;esc_html_e;esc_attr__;"
+"esc_attr_e\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../includes/class-panorama-shortcode.php:151
+msgid "Inspiration"
+msgstr ""
+
+#: ../includes/class-panorama-shortcode.php:152
+msgid "Reload"
+msgstr ""
+
+#: ../includes/class-panorama-shortcode.php:153
+msgid "Share"
+msgstr ""
+
+#: ../includes/class-panorama-shortcode.php:154
+msgid "Take Photo"
+msgstr ""
+
+#: ../includes/class-panorama-shortcode.php:157
+msgid "Save as Inspiration"
+msgstr ""
+
+#: ../includes/class-panorama-shortcode.php:178
+msgid "Add New"
+msgstr ""
+
+#: ../includes/class-panorama-shortcode.php:183
+msgid "Choose Group Name"
+msgstr ""
+
+#: ../includes/class-panorama-shortcode.php:192
+msgid "Or Create New Group"
+msgstr ""
+
+#: ../includes/class-panorama-shortcode.php:197
+#: ../includes/class-panorama-shortcode.php:223
+msgid "Inspiration Name"
+msgstr ""
+
+#: ../includes/class-panorama-shortcode.php:202
+#: ../includes/class-panorama-shortcode.php:228
+msgid "Description"
+msgstr ""
+
+#: ../includes/class-panorama-shortcode.php:207
+#: ../includes/class-panorama-shortcode.php:233
+msgid "Image Url"
+msgstr ""
+
+#: ../includes/class-panorama-shortcode.php:212
+msgid "Create"
+msgstr ""
+
+#: ../includes/class-panorama-shortcode.php:213
+#: ../includes/class-panorama-shortcode.php:239
+msgid "Cancel"
+msgstr ""
+
+#: ../includes/class-panorama-shortcode.php:220
+#: ../includes/class-panorama-shortcode.php:238
+msgid "Update"
+msgstr ""
+
+#: ../includes/class-panorama-shortcode.php:254
+msgid "Share your Creation"
+msgstr ""
+
+#: ../includes/class-panorama-shortcode.php:255
+msgid "Select how do you want to share"
+msgstr ""
+
+#: ../includes/class-panorama-shortcode.php:260
+msgid "Copy the link"
+msgstr ""
+
+#: ../includes/class-panorama-shortcode.php:265
+msgid "Facebook"
+msgstr ""
+
+#: ../includes/class-panorama-shortcode.php:270
+msgid "Twitter"
+msgstr ""
+
+#: ../includes/class-panorama-shortcode.php:275
+msgid "Google Plus"
+msgstr ""
+
+#: ../includes/class-panorama-shortcode.php:280
+msgid "Linkedin"
+msgstr ""
+
+#: ../includes/class-panorama-shortcode.php:285
+msgid "Pinterest"
+msgstr ""
+
+#: ../includes/class-panorama-shortcode.php:290
+msgid "Or"
+msgstr ""
+
+#: ../includes/class-panorama-shortcode.php:291
+msgid "Copy the share link manually"
+msgstr ""
+
+#: ../includes/class-panorama-shortcode.php:306
+#: ../includes/class-pwc-panorama-config.php:77
+msgid "Front"
+msgstr ""
+
+#: ../includes/class-panorama-shortcode.php:594
+msgid "INSPIRATION"
+msgstr ""
+
+#: ../includes/class-panorama-shortcode.php:674
+#: ../includes/class-panorama-shortcode.php:1287
+msgid "Select"
+msgstr ""
+
+#: ../includes/class-panorama-shortcode.php:739
+msgid "Base Price"
+msgstr ""
+
+#: ../includes/class-panorama-shortcode.php:1023
+#: ../templates/single-configurator.php:33
+msgid "Change"
+msgstr ""
+
+#: ../includes/class-panorama-shortcode.php:1024
+#: ../templates/single-configurator.php:34
+msgid "Remove"
+msgstr ""
+
+#: ../includes/class-panorama-shortcode.php:1100
+msgid "Created Successfully"
+msgstr ""
+
+#: ../includes/class-panorama-shortcode.php:1106
+msgid "Please type the inspiration name"
+msgstr ""
+
+#: ../includes/class-panorama-shortcode.php:1109
+msgid "Please type the group name"
+msgstr ""
+
+#: ../includes/class-panorama-shortcode.php:1126
+msgid "Overwrite Successfully"
+msgstr ""
+
+#: ../includes/class-panorama-shortcode.php:1131
+#: ../includes/class-panorama-shortcode.php:1152
+msgid "Please choose the item to replace"
+msgstr ""
+
+#: ../includes/class-panorama-shortcode.php:1147
+msgid "Update Successfully"
+msgstr ""
+
+#: ../includes/class-panorama-shortcode.php:1167
+msgid "Deleted Successfully"
+msgstr ""
+
+#: ../includes/class-panorama-shortcode.php:1172
+msgid "Please choose the item to delete"
+msgstr ""
+
+#: ../includes/class-panorama-shortcode.php:1188
+msgid "Group Deleted Successfully"
+msgstr ""
+
+#: ../includes/class-panorama-shortcode.php:1193
+msgid "Please choose the group to delete"
+msgstr ""
+
+#: ../includes/class-pwc-panorama-config.php:128
+#: ../includes/pwc-panorama-admin-options.php:19
+msgid "Panorama"
+msgstr ""
+
+#: ../includes/pwc-panorama-admin-options.php:39
+msgid "Single Configurator"
+msgstr ""
+
+#: ../includes/pwc-panorama-admin-options.php:44
+msgid "Single Panorama Logo"
+msgstr ""
+
+#: ../includes/pwc-panorama-admin-options.php:45
+#: ../includes/pwc-panorama-admin-options.php:55
+msgid "Choose logo."
+msgstr ""
+
+#: ../includes/pwc-panorama-admin-options.php:54
+msgid "Single Panorama Cart Logo"
+msgstr ""
+
+#: ../includes/pwc-panorama-admin-options.php:64
+msgid "Single Panorama Page Menu"
+msgstr ""
+
+#: ../includes/pwc-panorama-admin-options.php:65
+msgid "Choose menu location."
+msgstr ""
+
+#: ../includes/pwc-panorama-admin-options.php:90
+msgid "Active license for automatic update"
+msgstr ""
+
+#: ../includes/pwc-panorama-admin-options.php:99
+msgid "License Key"
+msgstr ""
+
+#: ../includes/pwc-panorama-admin-options.php:103
+msgid "Enter your license key"
+msgstr ""
+
+#: ../includes/pwc-panorama-admin-options.php:109
+#: ../includes/pwc-panorama-admin-options.php:118
+msgid "Activate License"
+msgstr ""
+
+#: ../includes/pwc-panorama-admin-options.php:113
+msgid "Active"
+msgstr ""
+
+#: ../includes/pwc-panorama-admin-options.php:115
+msgid "Deactivate License"
+msgstr ""
+
+#: ../includes/pwc-panorama-admin-options.php:128
+msgid "Buy License"
+msgstr ""
+
+#: ../includes/pwc-panorama-admin-options.php:130
+msgid ""
+"If you need another license, Please purchase the license through below this "
+"link."
+msgstr ""
+
+#: ../includes/pwc-panorama-admin-options.php:132
+msgid "Please purchase the license through below this link."
+msgstr ""
+
+#: ../includes/pwc-panorama-admin-options.php:134
+msgid "Buy Product"
+msgstr ""
+
+#: ../includes/updater/class-pwc-plugin-updater.php:210
+#, php-format
+msgid ""
+"There is a new version of %1$s available. %2$sView version %3$s details%4$s."
+msgstr ""
+
+#: ../includes/updater/class-pwc-plugin-updater.php:218
+#, php-format
+msgid ""
+"There is a new version of %1$s available. %2$sView version %3$s details%4$s "
+"or %5$supdate now%6$s."
+msgstr ""
+
+#: ../includes/updater/class-pwc-plugin-updater.php:408
+msgid "You do not have permission to install plugin updates"
+msgstr ""
+
+#: ../includes/updater/class-pwc-plugin-updater.php:408
+msgid "Error"
+msgstr ""
+
+#: ../includes/updater/pwc-update-handler.php:119
+#: ../includes/updater/pwc-update-handler.php:147
+#: ../includes/updater/pwc-update-handler.php:197
+msgid "An error occurred, please try again."
+msgstr ""
+
+#: ../includes/updater/pwc-update-handler.php:126
+#, php-format
+msgid "Your license key expired on %s."
+msgstr ""
+
+#: ../includes/updater/pwc-update-handler.php:131
+msgid "Your license key has been disabled."
+msgstr ""
+
+#: ../includes/updater/pwc-update-handler.php:134
+msgid "Invalid license."
+msgstr ""
+
+#: ../includes/updater/pwc-update-handler.php:138
+msgid "Your license is not active for this URL."
+msgstr ""
+
+#: ../includes/updater/pwc-update-handler.php:141
+#, php-format
+msgid "This appears to be an invalid license key for %s."
+msgstr ""
+
+#: ../includes/updater/pwc-update-handler.php:144
+msgid "Your license key has reached its activation limit."
+msgstr ""
+
+#: ../panorama.php:88
+#, php-format
+msgid ""
+"Hola! Would you like to receive automatic updates and unlock premium "
+"support? Please <a href=\"%s\">activate your copy</a> of Panorama - Addon "
+"for Product WooCommerce Configurator."
+msgstr ""
+
+#: ../panorama.php:172
+msgid ""
+"Panorama Addon requires <strong>WooCommerce and Product WooCommerce "
+"Configurator</strong> to be installed and activated on your site."
+msgstr ""

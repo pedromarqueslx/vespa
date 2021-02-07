@@ -1,0 +1,245 @@
+/*
+* Add child theme CSS Rules
+*/
+
+#content {
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+.site-content {
+    margin: 0 !important;
+    /*border: 12px solid green;*/
+}
+
+.background-vespa-logo {
+    background-color: #cfcfcf;
+    background-image: url("https://transmedia.pt/vespalab/wp-content/uploads/2020/06/background-vespa-logo.svg");
+    background-size: cover;
+    /*min-height: 800px;*/
+    padding-bottom: 80px;
+    background-position-x: center;
+    -webkit-animation: fadeIn ease 1s;
+    -moz-animation: fadeIn ease 1s;
+    -o-animation: fadeIn ease 1s;
+    animation: fadein ease 1s;
+}
+
+.background-vespa-logo img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.section-homepage {
+    background-color: #cfcfcf;
+    background-image: url("https://transmedia.pt/vespalab/wp-content/uploads/2020/06/background-vespa-logo.svg");
+    background-size: cover;
+    min-height: 800px;
+    background-position-x: center;
+    -webkit-animation: fadeIn ease 1s;
+    -moz-animation: fadeIn ease 1s;
+    -o-animation: fadeIn ease 1s;
+    animation: fadein ease 1s;
+}
+
+.section-vespa-konfigurieren {
+    background-image: url("https://192.168.64.2/vespalab/wp-content/uploads/2020/04/vespa-gts-supersport-jetzt-konfigurieren.png");
+    background-size: cover;
+    min-height: 651px;
+    -webkit-animation: fadeIn ease 1s;
+    -moz-animation: fadeIn ease 1s;
+    -o-animation: fadeIn ease 1s;
+    animation: fadein ease 1s;
+}
+
+.section-konfigurator {
+    background-color: #cfcfcf;
+    background-image: url("https://transmedia.pt/vespalab/wp-content/uploads/2020/06/konfigurator-wallpaper.png");
+    min-height: 651px;
+    background-position-x: center;
+    background-position-y: top;
+    -webkit-animation: fadeIn ease 1s;
+    -moz-animation: fadeIn ease 1s;
+    -o-animation: fadeIn ease 1s;
+    animation: fadein ease 1s;
+}
+
+.logo-vespa {
+    -webkit-animation: fadeIn ease 1s;
+    -moz-animation: fadeIn ease 1s;
+    -o-animation: fadeIn ease 1s;
+    animation: fadein ease 1s;
+    margin: auto;
+    text-align: center;
+    padding-top: 30%;
+    width: 70%;
+}
+
+.btn, .button.btn, .added_to_cart, .added_to_cart:hover {
+    padding: 8px 27px;
+    font-family: "Montserrat", Arial, sans-serif;
+    font-weight: 500;
+    font-size: 12px;
+    letter-spacing: 1px;
+    box-shadow: none;
+    border: none;
+    line-height: 1.857;
+}
+
+.btn-home-konfigurieren {
+    text-align: center;
+    color: #0081C9;
+    font-weight: bold;
+    font-size: 14px;
+    letter-spacing: 1px;
+    padding: 10px 5px 10px 5px;
+    box-shadow: none;
+    line-height: 1.857;
+    border: 2px solid #0081C9;
+    margin-left: 30%;
+    margin-right: 30%;
+    background-color: transparent;
+    margin-top: -20px;
+    margin-bottom: 30%;
+}
+
+.btn-home-konfigurieren:hover {
+    color: white;
+    border: 2px solid white;
+    background-color: #0081C9;
+}
+
+.btn-vespa-gts {
+    text-align: right;
+    color: #777777;
+    font-weight: 500;
+    font-size: 16px;
+    letter-spacing: 1px;
+    padding: 12px 30px;
+    box-shadow: none;
+    line-height: 1.857;
+    background-color: white;
+    margin-top: -80px;
+    position: relative;
+    width: 280px;
+}
+
+
+.btn-konfigurieren {
+    text-align: center;
+    color: #FFFFFF;
+    font-weight: 500;
+    font-size: 16px;
+    letter-spacing: 1px;
+    padding: 12px 30px;
+    display: inline-block;
+    box-shadow: none;
+    line-height: 1.857;
+    background-color: #0081C9;
+    float: left;
+    margin-left: 15%;
+}
+
+.btn-konfigurieren:hover {
+    background-color: #777777;
+}
+
+/*
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+    line-height: 100px;
+}
+
+img.center {
+    padding-top: 150px;
+    width: 111%;
+}
+
+ */
+
+#banner {
+    position: relative;
+    padding-top: 44px !important;
+    padding-bottom: 50px;
+    z-index: 0;
+}
+
+/* ----------------------------------------------------------------
+	13.Theme Styles
+-----------------------------------------------------------------*/
+.footer-dark .pageFooterCon {
+    background: #2e2e2e;
+    color: #a5a5a5;
+    display: none;
+}
+
+.copyright .copyright-text {
+    margin-bottom: 0;
+    margin-top: 0;
+    text-transform: uppercase;
+    font-size: 10px !important;
+    color: grey !important;
+}
+
+/* ----------------------------------------------------------------
+	14.CSS Keyframes
+-----------------------------------------------------------------*/
+@keyframes fadein {
+    from { opacity: 0; }
+    to   { opacity: 1; }
+}
+
+/* Firefox < 16 */
+@-moz-keyframes fadein {
+    from { opacity: 0; }
+    to   { opacity: 1; }
+}
+
+/* Safari, Chrome and Opera > 12.1 */
+@-webkit-keyframes fadein {
+    from { opacity: 0; }
+    to   { opacity: 1; }
+}
+
+/* Internet Explorer */
+@-ms-keyframes fadein {
+    from { opacity: 0; }
+    to   { opacity: 1; }
+}
+
+/* Opera < 12.1 */
+@-o-keyframes fadein {
+    from { opacity: 0; }
+    to   { opacity: 1; }
+}
+
+/* ----------------------------------------------------------------
+	15.Media Queries
+-----------------------------------------------------------------*/
+@media (min-width: 576px) {  }
+
+@media (min-width: 768px) {  }
+
+@media (min-width: 992px) {  }
+
+@media (min-width: 1200px) {  }
+
+@media (max-width: 575.98px) {  }
+
+@media (max-width: 767.98px) {
+
+}
+
+@media (max-width: 991.98px) {
+    .d-none {
+        display: none !important;
+    }
+}
+
+@media (max-width: 1199.98px) {  }
+
+

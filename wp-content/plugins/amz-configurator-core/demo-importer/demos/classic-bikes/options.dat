@@ -1,0 +1,54 @@
+a:4:{s:8:"template";s:12:"configurator";s:4:"mods";a:45:{i:0;b:0;s:18:"custom_css_post_id";i:357;s:8:"facebook";s:1:"#";s:7:"twitter";s:1:"#";s:5:"gplus";s:1:"#";s:8:"linkedin";s:1:"#";s:29:"footer_small_element_position";s:10:"top_bottom";s:20:"footer_small_element";a:2:{i:0;s:6:"sicons";i:1;s:14:"copyright_text";}s:18:"to_last_saved_time";i:1536238321;s:18:"nav_menu_locations";a:1:{s:8:"main-nav";i:17;}s:21:"custom_general_styles";s:2:"no";s:21:"shop_normal_btn_color";s:12:"btn-gradient";s:20:"shop_normal_btn_size";s:6:"btn-sm";s:23:"shop_customize_btn_size";s:6:"btn-sm";s:24:"shop_customize_btn_color";s:12:"btn-gradient";s:17:"shop_btn_on_hover";s:3:"yes";s:31:"single_product_related_on_hover";s:3:"yes";s:36:"single_product_related_product_items";s:1:"3";s:9:"main_wrap";s:4:"1366";s:23:"checkout_order_btn_size";s:6:"btn-sm";s:23:"checkout_order_btn_type";s:8:"btn-oval";s:19:"404_title_bar_title";s:4:"hide";s:10:"form_style";s:7:"rounded";s:12:"content_wrap";s:4:"1170";s:14:"shop_sub_title";s:79:"take a look at one of our premium customizable bikes and take it to the streets";s:10:"blog_style";s:12:"normal_split";s:22:"single_title_bar_title";s:4:"show";s:34:"single_title_bar_share_below_title";s:4:"hide";s:30:"single_title_bar_on_right_side";s:5:"share";s:16:"single_title_bar";s:4:"show";s:38:"single_product_title_bar_on_right_side";s:4:"none";s:31:"single_product_title_bar_goback";s:4:"show";s:30:"single_product_title_bar_title";s:4:"hide";s:36:"single_product_related_product_title";s:18:"Choose Other Model";s:40:"single_product_related_product_sub_title";s:94:"Don‘t need a sports bike ? Choose one of our two other model types to better fit your needs.";s:13:"boxed_content";s:4:"wide";s:29:"single_product_cart_btn_color";s:12:"btn-gradient";s:16:"wishlist_page_id";s:3:"352";s:10:"shop_items";s:1:"9";s:10:"shop_width";s:3:"370";s:4:"logo";s:95:"https://wpconfigurator.com/bikesdemo/wp-content/uploads/sites/16/2018/07/wilmark-bikes-logo.png";s:11:"retina_logo";s:102:"https://wpconfigurator.com/bikesdemo/wp-content/uploads/sites/16/2018/07/wilmark-bikes-logo-retina.png";s:10:"light_logo";s:101:"https://wpconfigurator.com/bikesdemo/wp-content/uploads/sites/16/2018/07/wilmark-bikes-logo-white.png";s:17:"light_retina_logo";s:108:"https://wpconfigurator.com/bikesdemo/wp-content/uploads/sites/16/2018/07/wilmark-bikes-logo-white-retina.png";s:21:"footer_copyright_text";s:42:"Copyright © 2018 • All Rights Reserved.";}s:7:"options";a:20:{s:22:"woocommerce_demo_store";s:2:"no";s:29:"woocommerce_demo_store_notice";s:79:"This is a demo store for testing purposes &mdash; no orders shall be fulfilled.";s:29:"woocommerce_shop_page_display";s:0:"";s:36:"woocommerce_category_archive_display";s:0:"";s:35:"woocommerce_default_catalog_orderby";s:10:"menu_order";s:30:"woocommerce_single_image_width";s:3:"600";s:33:"woocommerce_thumbnail_image_width";s:3:"300";s:30:"woocommerce_thumbnail_cropping";s:3:"1:1";s:43:"woocommerce_thumbnail_cropping_custom_width";s:1:"4";s:44:"woocommerce_thumbnail_cropping_custom_height";s:1:"3";s:34:"woocommerce_checkout_company_field";s:8:"optional";s:36:"woocommerce_checkout_address_2_field";s:8:"optional";s:32:"woocommerce_checkout_phone_field";s:8:"required";s:46:"woocommerce_checkout_highlight_required_fields";s:3:"yes";s:55:"woocommerce_checkout_terms_and_conditions_checkbox_text";s:44:"I have read and agree to the website [terms]";s:40:"woocommerce_checkout_privacy_policy_text";s:161:"Your personal data will be used to process your order, support your experience throughout this website, and for other purposes described in our [privacy_policy].";s:26:"wp_page_for_privacy_policy";s:0:"";s:25:"woocommerce_terms_page_id";s:0:"";s:9:"site_icon";s:1:"0";s:23:"nav_menus_created_posts";a:0:{}}s:6:"wp_css";s:1292:"/*
+You can add your own CSS here.
+
+Click the help icon above to learn more.
+*/
+
+
+#pwc-front {
+    margin-top: -75px;
+}
+.footer-bottom {
+    margin-top: -60px;
+    padding-bottom: 50px;
+}
+.woocommerce-checkout .woocommerce-info{ display:none; }
+.woocommerce-checkout .coupon-wrap .woocommerce-info{ display:block; }
+
+@media(max-width: 767px) {
+    .footer-bottom {
+        margin-top: 0;
+    }
+}
+@media(max-width: 1024px) {
+    div.special-title .special-title-bg {
+        width: auto;
+        height: auto;
+        background-size: 140px;
+        background-repeat: no-repeat;
+        background-position: center;
+        padding-left: 30px;
+        padding-right: 30px;
+        line-height: 60px !important;
+    }
+}
+@media(max-width: 1024px) {
+    div.special-title .special-title-bg {
+        background-size: 110px;
+    }
+}
+@media (max-width: 480px) {
+    div.special-title .special-title-bg {
+        background-size: 80px;
+        padding-left: 15px;
+        padding-right: 15px;
+        line-height: 40px !important;
+    }
+}
+.blog div#banner {
+    padding-top: 150px !important;
+    padding-bottom: 0px !important;
+}
+.subscribe-form-2 input[type=submit] {position:absolute;top:0;}
+ul#menu-footer-menu{text-align:center;}
+ul#menu-footer-menu li{display:inline-block;margin:0 12px 28px;}";}

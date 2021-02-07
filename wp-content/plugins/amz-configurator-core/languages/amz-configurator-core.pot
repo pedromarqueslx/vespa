@@ -1,0 +1,2662 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: the-ocean\n"
+"POT-Creation-Date: 2018-09-20 12:15+0530\n"
+"PO-Revision-Date: 2018-09-20 12:15+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.1\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;_n;esc_html__;esc_html_e\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../amz-configurator-core.php:163
+#, php-format
+msgid ""
+"<strong>%s</strong> Plugin requires <strong><a href=\"https://themeforest."
+"net/item/configurator-responsive-multipurpose-theme/18710102\" target="
+"\"_blank\">Configurator - Responsive Multi-Purpose Theme</a></strong> to be "
+"installed and activated on your site."
+msgstr ""
+
+#: ../demo-importer/init.php:75
+msgid "Import Demos"
+msgstr ""
+
+#: ../demo-importer/init.php:82
+msgid "Shoes"
+msgstr ""
+
+#: ../demo-importer/init.php:95
+msgid "Helmets"
+msgstr ""
+
+#: ../demo-importer/init.php:104
+msgid "Headphones"
+msgstr ""
+
+#: ../demo-importer/init.php:113
+msgid "Corralejo Sunglasses"
+msgstr ""
+
+#: ../demo-importer/init.php:122
+msgid "Motorbikes"
+msgstr ""
+
+#: ../demo-importer/init.php:131
+msgid "Makiavelo Bikes"
+msgstr ""
+
+#: ../demo-importer/init.php:140
+msgid "Handbags"
+msgstr ""
+
+#: ../demo-importer/init.php:149
+msgid "Tshirt"
+msgstr ""
+
+#: ../demo-importer/init.php:158
+msgid "Smartwatch"
+msgstr ""
+
+#: ../demo-importer/init.php:167
+msgid "Classic Sunglasses"
+msgstr ""
+
+#: ../demo-importer/init.php:176
+msgid "Classic Bikes"
+msgstr ""
+
+#: ../demo-importer/classes/importer.class.php:85
+msgid "Configurator Theme Demo Importer"
+msgstr ""
+
+#: ../demo-importer/classes/importer.class.php:96
+msgid "Re-Import"
+msgstr ""
+
+#: ../demo-importer/classes/importer.class.php:97
+msgid "Imported"
+msgstr ""
+
+#: ../demo-importer/classes/importer.class.php:99
+msgid "Import"
+msgstr ""
+
+#: ../demo-importer/classes/importer.class.php:100
+msgid "Not Imported"
+msgstr ""
+
+#: ../demo-importer/classes/importer.class.php:126
+msgid "Preview"
+msgstr ""
+
+#: ../demo-importer/classes/importer.class.php:203
+msgid "Error on import"
+msgstr ""
+
+#: ../demo-importer/classes/importer.class.php:206
+msgid "File Error!!!"
+msgstr ""
+
+#: ../demo-importer/classes/parsers.php:42
+#: ../demo-importer/classes/parsers.php:72
+#: ../demo-importer/classes/parsers.php:80
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+#: ../demo-importer/classes/parsers.php:43
+msgid ""
+"Details are shown above. The importer will now try again with a different "
+"parser..."
+msgstr ""
+
+#: ../demo-importer/classes/parsers.php:84
+#: ../demo-importer/classes/parsers.php:89
+#: ../demo-importer/classes/parsers.php:306
+#: ../demo-importer/classes/parsers.php:502
+msgid ""
+"This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+#: ../demo-importer/classes/wordpress-importer.php:132
+#: ../demo-importer/classes/wordpress-importer.php:141
+#: ../demo-importer/classes/wordpress-importer.php:192
+#: ../demo-importer/classes/wordpress-importer.php:196
+#: ../demo-importer/classes/wordpress-importer.php:205
+msgid "Sorry, there has been an error."
+msgstr ""
+
+#: ../demo-importer/classes/wordpress-importer.php:133
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#: ../demo-importer/classes/wordpress-importer.php:176
+msgid "All done."
+msgstr ""
+
+#: ../demo-importer/classes/wordpress-importer.php:176
+msgid "Have fun!"
+msgstr ""
+
+#: ../demo-importer/classes/wordpress-importer.php:177
+msgid "Remember to update the passwords and roles of imported users."
+msgstr ""
+
+#: ../demo-importer/classes/wordpress-importer.php:197
+#, php-format
+msgid ""
+"The export file could not be found at <code>%s</code>. It is likely that "
+"this was caused by a permissions problem."
+msgstr ""
+
+#: ../demo-importer/classes/wordpress-importer.php:213
+#, php-format
+msgid ""
+"This WXR file (version %s) may not be supported by this version of the "
+"importer. Please consider updating."
+msgstr ""
+
+#: ../demo-importer/classes/wordpress-importer.php:238
+#, php-format
+msgid ""
+"Failed to import author %s. Their posts will be attributed to the current "
+"user."
+msgstr ""
+
+#: ../demo-importer/classes/wordpress-importer.php:264
+msgid "Assign Authors"
+msgstr ""
+
+#: ../demo-importer/classes/wordpress-importer.php:265
+msgid ""
+"To make it easier for you to edit and save the imported content, you may "
+"want to reassign the author of the imported item to an existing user of this "
+"site. For example, you may want to import all the entries as <code>admin</"
+"code>s entries."
+msgstr ""
+
+#: ../demo-importer/classes/wordpress-importer.php:267
+#, php-format
+msgid ""
+"If a new user is created by WordPress, a new password will be randomly "
+"generated and the new user&#8217;s role will be set as %s. Manually changing "
+"the new user&#8217;s details will be necessary."
+msgstr ""
+
+#: ../demo-importer/classes/wordpress-importer.php:277
+msgid "Import Attachments"
+msgstr ""
+
+#: ../demo-importer/classes/wordpress-importer.php:280
+msgid "Download and import file attachments"
+msgstr ""
+
+#: ../demo-importer/classes/wordpress-importer.php:297
+msgid "Import author:"
+msgstr ""
+
+#: ../demo-importer/classes/wordpress-importer.php:308
+msgid "or create new user with login name:"
+msgstr ""
+
+#: ../demo-importer/classes/wordpress-importer.php:311
+msgid "as a new user:"
+msgstr ""
+
+#: ../demo-importer/classes/wordpress-importer.php:319
+msgid "assign posts to an existing user:"
+msgstr ""
+
+#: ../demo-importer/classes/wordpress-importer.php:321
+msgid "or assign posts to an existing user:"
+msgstr ""
+
+#: ../demo-importer/classes/wordpress-importer.php:322
+msgid "- Select -"
+msgstr ""
+
+#: ../demo-importer/classes/wordpress-importer.php:372
+#, php-format
+msgid ""
+"Failed to create new user for %s. Their posts will be attributed to the "
+"current user."
+msgstr ""
+
+#: ../demo-importer/classes/wordpress-importer.php:424
+#, php-format
+msgid "Failed to import category %s"
+msgstr ""
+
+#: ../demo-importer/classes/wordpress-importer.php:467
+#, php-format
+msgid "Failed to import post tag %s"
+msgstr ""
+
+#: ../demo-importer/classes/wordpress-importer.php:516
+#: ../demo-importer/classes/wordpress-importer.php:738
+#, php-format
+msgid "Failed to import %s %s"
+msgstr ""
+
+#: ../demo-importer/classes/wordpress-importer.php:605
+#, php-format
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr ""
+
+#: ../demo-importer/classes/wordpress-importer.php:642
+#, php-format
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr ""
+
+#: ../demo-importer/classes/wordpress-importer.php:704
+#, php-format
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr ""
+
+#: ../demo-importer/classes/wordpress-importer.php:870
+msgid "Menu item skipped due to missing menu slug"
+msgstr ""
+
+#: ../demo-importer/classes/wordpress-importer.php:877
+#, php-format
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr ""
+
+#: ../demo-importer/classes/wordpress-importer.php:940
+msgid "Fetching attachments is not enabled"
+msgstr ""
+
+#: ../demo-importer/classes/wordpress-importer.php:953
+msgid "Invalid file type"
+msgstr ""
+
+#: ../demo-importer/classes/wordpress-importer.php:1003
+msgid "Remote server did not respond"
+msgstr ""
+
+#: ../demo-importer/classes/wordpress-importer.php:1011
+#, php-format
+msgid "Remote server returned error response %1$d %2$s"
+msgstr ""
+
+#: ../demo-importer/classes/wordpress-importer.php:1018
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: ../demo-importer/classes/wordpress-importer.php:1023
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: ../demo-importer/classes/wordpress-importer.php:1029
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: ../demo-importer/classes/wordpress-importer.php:1129
+msgid "Import WordPress"
+msgstr ""
+
+#: ../demo-importer/classes/wordpress-importer.php:1136
+#, php-format
+msgid ""
+"A new version of this importer is available. Please update to version %s to "
+"ensure compatibility with newer export files."
+msgstr ""
+
+#: ../demo-importer/classes/wordpress-importer.php:1151
+msgid ""
+"Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import "
+"the posts, pages, comments, custom fields, categories, and tags into this "
+"site."
+msgstr ""
+
+#: ../demo-importer/classes/wordpress-importer.php:1152
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr ""
+
+#: ../demo-importer/classes/wordpress-importer.php:1226
+msgid ""
+"Import <strong>posts, pages, comments, custom fields, categories, and tags</"
+"strong> from a WordPress export file."
+msgstr ""
+
+#: ../includes/class/class-amz-shortcodes.php:34
+msgid "Descending Order"
+msgstr ""
+
+#: ../includes/class/class-amz-shortcodes.php:35
+msgid "Ascending Order"
+msgstr ""
+
+#: ../includes/class/class-amz-shortcodes.php:42
+msgid "Date"
+msgstr ""
+
+#: ../includes/class/class-amz-shortcodes.php:43
+msgid "Date Modified"
+msgstr ""
+
+#: ../includes/class/class-amz-shortcodes.php:44
+msgid "Rand"
+msgstr ""
+
+#: ../includes/class/class-amz-shortcodes.php:45
+#: ../includes/kc/shortcodes/product/index.php:39
+#: ../includes/kc/shortcodes/product-slider/index.php:39
+msgid "ID"
+msgstr ""
+
+#: ../includes/class/class-amz-shortcodes.php:46
+#: ../includes/kc/shortcodes/product-sku/index.php:35
+#: ../includes/kc/shortcodes/static-counter/index.php:30
+#: ../includes/kc/shortcodes/wishlist/index.php:83
+msgid "Title"
+msgstr ""
+
+#: ../includes/class/class-amz-shortcodes.php:47
+#: ../includes/kc/shortcodes/quote/index.php:53
+msgid "Author"
+msgstr ""
+
+#: ../includes/class/class-amz-shortcodes.php:48
+msgid "Name"
+msgstr ""
+
+#: ../includes/class/class-amz-shortcodes.php:49
+msgid "Parent"
+msgstr ""
+
+#: ../includes/class/class-amz-shortcodes.php:50
+msgid "Menu Order"
+msgstr ""
+
+#: ../includes/class/class-amz-shortcodes.php:51
+msgid "None"
+msgstr ""
+
+#: ../includes/class/class-customizer-reset.php:34
+msgid "Reset"
+msgstr ""
+
+#: ../includes/class/class-customizer-reset.php:35
+msgid ""
+"Attention! This will remove all customizations ever made via customizer to "
+"this theme!\n"
+"\n"
+"This action is irreversible!"
+msgstr ""
+
+#: ../includes/class/class-metaboxes.php:584
+#: ../includes/metaboxes/page-metabox.php:292
+#: ../includes/metaboxes/page-metabox.php:307
+#: ../includes/metaboxes/page-metabox.php:321
+#: ../includes/metaboxes/page-metabox.php:335
+#: ../includes/metaboxes/post-metabox.php:9
+#: ../includes/metaboxes/post-metabox.php:294
+#: ../includes/metaboxes/post-metabox.php:309
+#: ../includes/metaboxes/post-metabox.php:323
+#: ../includes/metaboxes/post-metabox.php:337
+#: ../includes/metaboxes/shop-metabox.php:330
+#: ../includes/metaboxes/shop-metabox.php:345
+#: ../includes/metaboxes/shop-metabox.php:359
+#: ../includes/metaboxes/shop-metabox.php:373
+msgid "Default"
+msgstr ""
+
+#: ../includes/class/configurator-helper.php:38
+msgid "Mail from "
+msgstr ""
+
+#: ../includes/class/configurator-helper.php:125
+msgid "Type the username"
+msgstr ""
+
+#: ../includes/class/configurator-helper.php:128
+#: ../includes/class/configurator-helper.php:138
+msgid "Username does not exists"
+msgstr ""
+
+#: ../includes/class/configurator-helper.php:131
+msgid "Type the password"
+msgstr ""
+
+#: ../includes/class/configurator-helper.php:145
+#: ../includes/class/configurator-helper.php:567
+msgid "The password you entered for the username is incorrect"
+msgstr ""
+
+#: ../includes/class/configurator-helper.php:183
+msgid "Login Successfully"
+msgstr ""
+
+#: ../includes/class/configurator-helper.php:213
+msgid "Enter a username or e-mail address."
+msgstr ""
+
+#: ../includes/class/configurator-helper.php:220
+msgid "There is no user registered with that email address."
+msgstr ""
+
+#: ../includes/class/configurator-helper.php:238
+msgid "Someone requested that the password be reset for the following account:"
+msgstr ""
+
+#: ../includes/class/configurator-helper.php:240
+#: ../includes/class/configurator-helper.php:464
+#, php-format
+msgid "Username: %s"
+msgstr ""
+
+#: ../includes/class/configurator-helper.php:241
+msgid "If this was a mistake, just ignore this email and nothing will happen."
+msgstr ""
+
+#: ../includes/class/configurator-helper.php:242
+msgid "To reset your password, visit the following address:"
+msgstr ""
+
+#: ../includes/class/configurator-helper.php:270
+#, php-format
+msgid "[%s] Password Reset"
+msgstr ""
+
+#: ../includes/class/configurator-helper.php:278
+msgid "Check your e-mail for the confirmation link."
+msgstr ""
+
+#: ../includes/class/configurator-helper.php:281
+msgid "The e-mail could not be sent."
+msgstr ""
+
+#: ../includes/class/configurator-helper.php:281
+msgid "Possible reason: your host may have disabled the mail() function."
+msgstr ""
+
+#: ../includes/class/configurator-helper.php:324
+#: ../includes/class/configurator-helper.php:325
+msgid "Password is required field"
+msgstr ""
+
+#: ../includes/class/configurator-helper.php:334
+#: ../includes/class/configurator-helper.php:336
+msgid "Your password has been reset."
+msgstr ""
+
+#: ../includes/class/configurator-helper.php:369
+#: ../includes/class/configurator-helper.php:370
+msgid "Wrong reset key. Please check the mail."
+msgstr ""
+
+#: ../includes/class/configurator-helper.php:399
+msgid "Please enter a username."
+msgstr ""
+
+#: ../includes/class/configurator-helper.php:402
+msgid ""
+"This username is invalid because it uses illegal characters. Please enter a "
+"valid username."
+msgstr ""
+
+#: ../includes/class/configurator-helper.php:406
+msgid "This username is already registered. Please choose another one."
+msgstr ""
+
+#: ../includes/class/configurator-helper.php:412
+msgid "Sorry, that username is not allowed."
+msgstr ""
+
+#: ../includes/class/configurator-helper.php:418
+msgid "Please type your email address."
+msgstr ""
+
+#: ../includes/class/configurator-helper.php:421
+msgid "The email address is not correct."
+msgstr ""
+
+#: ../includes/class/configurator-helper.php:425
+#: ../includes/class/configurator-helper.php:576
+msgid "This email is already registered, please choose another one."
+msgstr ""
+
+#: ../includes/class/configurator-helper.php:433
+msgid "Could not register you please contact the"
+msgstr ""
+
+#: ../includes/class/configurator-helper.php:433
+msgid "administrator"
+msgstr ""
+
+#: ../includes/class/configurator-helper.php:462
+msgid "Howdy hello,"
+msgstr ""
+
+#: ../includes/class/configurator-helper.php:463
+msgid "You can log in with the following information:"
+msgstr ""
+
+#: ../includes/class/configurator-helper.php:465
+#, php-format
+msgid "Password: %s"
+msgstr ""
+
+#: ../includes/class/configurator-helper.php:467
+msgid "Thanks!"
+msgstr ""
+
+#: ../includes/class/configurator-helper.php:476
+#, php-format
+msgid "[%s] Register Account"
+msgstr ""
+
+#: ../includes/class/configurator-helper.php:479
+msgid "Check your e-mail for the password. You can reset it later."
+msgstr ""
+
+#: ../includes/class/configurator-helper.php:491
+#: ../includes/kc/shortcodes/contact-form/index.php:517
+#: ../includes/kc/shortcodes/contact-form/index.php:697
+#: ../includes/kc/shortcodes/contact-form/index.php:726
+msgid ""
+"The e-mail could not be sent. Possible reason: your host may have disabled "
+"the mail() function."
+msgstr ""
+
+#: ../includes/class/configurator-helper.php:564
+msgid "Please type your old password."
+msgstr ""
+
+#: ../includes/class/configurator-helper.php:573
+msgid "The email format is not correct."
+msgstr ""
+
+#: ../includes/class/configurator-helper.php:581
+msgid "Account updated successfully"
+msgstr ""
+
+#: ../includes/kc/kc.php:38
+#: ../includes/kc/shortcodes/contact-form/index.php:436
+#: ../includes/kc/shortcodes/product/index.php:139
+#: ../includes/kc/shortcodes/product/index.php:217
+#: ../includes/kc/shortcodes/product-slider/index.php:137
+msgid "Button Style"
+msgstr ""
+
+#: ../includes/kc/kc.php:41 ../includes/kc/shortcodes/product/index.php:145
+#: ../includes/kc/shortcodes/product/index.php:223
+#: ../includes/kc/shortcodes/product-slider/index.php:143
+msgid "Solid"
+msgstr ""
+
+#: ../includes/kc/kc.php:42 ../includes/kc/shortcodes/product/index.php:146
+#: ../includes/kc/shortcodes/product/index.php:224
+#: ../includes/kc/shortcodes/product-slider/index.php:144
+msgid "Outline"
+msgstr ""
+
+#: ../includes/kc/kc.php:44
+#: ../includes/kc/shortcodes/contact-form/index.php:437
+#: ../includes/kc/shortcodes/contact-form/index.php:475
+#: ../includes/kc/shortcodes/contact-form/index.php:487
+#: ../includes/kc/shortcodes/product/index.php:140
+#: ../includes/kc/shortcodes/product/index.php:190
+#: ../includes/kc/shortcodes/product/index.php:218
+#: ../includes/kc/shortcodes/product/index.php:268
+#: ../includes/kc/shortcodes/product-slider/index.php:138
+#: ../includes/kc/shortcodes/product-slider/index.php:188
+msgid "Choose the button style"
+msgstr ""
+
+#: ../includes/kc/kc.php:54
+#: ../includes/kc/shortcodes/contact-form/index.php:448
+#: ../includes/kc/shortcodes/product/index.php:151
+#: ../includes/kc/shortcodes/product/index.php:229
+#: ../includes/kc/shortcodes/product-slider/index.php:149
+msgid "Button Text Style"
+msgstr ""
+
+#: ../includes/kc/kc.php:57 ../includes/kc/shortcodes/product/index.php:157
+#: ../includes/kc/shortcodes/product/index.php:235
+#: ../includes/kc/shortcodes/product-slider/index.php:155
+msgid "Uppercase"
+msgstr ""
+
+#: ../includes/kc/kc.php:58 ../includes/kc/shortcodes/product/index.php:158
+#: ../includes/kc/shortcodes/product/index.php:236
+#: ../includes/kc/shortcodes/product-slider/index.php:156
+msgid "Lowercase"
+msgstr ""
+
+#: ../includes/kc/kc.php:59 ../includes/kc/shortcodes/product/index.php:159
+#: ../includes/kc/shortcodes/product/index.php:237
+#: ../includes/kc/shortcodes/product-slider/index.php:157
+msgid "Capitalize"
+msgstr ""
+
+#: ../includes/kc/kc.php:61
+#: ../includes/kc/shortcodes/contact-form/index.php:449
+#: ../includes/kc/shortcodes/product/index.php:152
+#: ../includes/kc/shortcodes/product/index.php:230
+#: ../includes/kc/shortcodes/product-slider/index.php:150
+msgid "Choose the button text style"
+msgstr ""
+
+#: ../includes/kc/kc.php:71
+#: ../includes/kc/shortcodes/contact-form/index.php:461
+#: ../includes/kc/shortcodes/product/index.php:164
+#: ../includes/kc/shortcodes/product/index.php:242
+#: ../includes/kc/shortcodes/product-slider/index.php:162
+msgid "Button Size"
+msgstr ""
+
+#: ../includes/kc/kc.php:74 ../includes/kc/shortcodes/product/index.php:170
+#: ../includes/kc/shortcodes/product/index.php:248
+#: ../includes/kc/shortcodes/product-slider/index.php:168
+msgid "Small"
+msgstr ""
+
+#: ../includes/kc/kc.php:75 ../includes/kc/shortcodes/product/index.php:171
+#: ../includes/kc/shortcodes/product/index.php:249
+#: ../includes/kc/shortcodes/product-slider/index.php:169
+msgid "Medium"
+msgstr ""
+
+#: ../includes/kc/kc.php:76 ../includes/kc/shortcodes/product/index.php:172
+#: ../includes/kc/shortcodes/product/index.php:250
+#: ../includes/kc/shortcodes/product-slider/index.php:170
+msgid "Large"
+msgstr ""
+
+#: ../includes/kc/kc.php:78
+#: ../includes/kc/shortcodes/contact-form/index.php:462
+msgid "Choose the button size"
+msgstr ""
+
+#: ../includes/kc/kc.php:88
+#: ../includes/kc/shortcodes/contact-form/index.php:474
+#: ../includes/kc/shortcodes/product/index.php:177
+#: ../includes/kc/shortcodes/product/index.php:255
+#: ../includes/kc/shortcodes/product-slider/index.php:175
+msgid "Button Type"
+msgstr ""
+
+#: ../includes/kc/kc.php:91 ../includes/kc/shortcodes/product/index.php:183
+#: ../includes/kc/shortcodes/product/index.php:261
+#: ../includes/kc/shortcodes/product-slider/index.php:181
+msgid "Oval"
+msgstr ""
+
+#: ../includes/kc/kc.php:92 ../includes/kc/shortcodes/product/index.php:184
+#: ../includes/kc/shortcodes/product/index.php:262
+#: ../includes/kc/shortcodes/product-slider/index.php:182
+msgid "Rectangle"
+msgstr ""
+
+#: ../includes/kc/kc.php:94
+msgid "Choose the button type"
+msgstr ""
+
+#: ../includes/kc/kc.php:104
+#: ../includes/kc/shortcodes/contact-form/index.php:486
+#: ../includes/kc/shortcodes/product/index.php:189
+#: ../includes/kc/shortcodes/product/index.php:267
+#: ../includes/kc/shortcodes/product-slider/index.php:187
+msgid "Button Color"
+msgstr ""
+
+#: ../includes/kc/kc.php:107 ../includes/kc/shortcodes/product/index.php:195
+#: ../includes/kc/shortcodes/product/index.php:273
+#: ../includes/kc/shortcodes/product-slider/index.php:193
+msgid "Gradient"
+msgstr ""
+
+#: ../includes/kc/kc.php:108 ../includes/kc/shortcodes/product/index.php:196
+#: ../includes/kc/shortcodes/product/index.php:274
+#: ../includes/kc/shortcodes/product-slider/index.php:194
+msgid "Black"
+msgstr ""
+
+#: ../includes/kc/kc.php:109 ../includes/kc/shortcodes/product/index.php:197
+#: ../includes/kc/shortcodes/product/index.php:275
+#: ../includes/kc/shortcodes/product-slider/index.php:195
+msgid "White"
+msgstr ""
+
+#: ../includes/kc/kc.php:110 ../includes/kc/shortcodes/product/index.php:198
+#: ../includes/kc/shortcodes/product/index.php:276
+#: ../includes/kc/shortcodes/product-slider/index.php:196
+msgid "Primary Color"
+msgstr ""
+
+#: ../includes/kc/kc.php:111 ../includes/kc/shortcodes/product/index.php:199
+#: ../includes/kc/shortcodes/product/index.php:277
+#: ../includes/kc/shortcodes/product-slider/index.php:197
+msgid "Custom"
+msgstr ""
+
+#: ../includes/kc/kc.php:113
+msgid "Choose the button color"
+msgstr ""
+
+#: ../includes/kc/kc.php:124
+msgid "Background Text"
+msgstr ""
+
+#: ../includes/kc/kc.php:126
+msgid "Type the Background Text"
+msgstr ""
+
+#: ../includes/kc/shortcodes/contact-form/index.php:38
+msgid "Contact Form"
+msgstr ""
+
+#: ../includes/kc/shortcodes/contact-form/index.php:39
+msgid "Display a contact form"
+msgstr ""
+
+#: ../includes/kc/shortcodes/contact-form/index.php:41
+#: ../includes/kc/shortcodes/login/index.php:23
+#: ../includes/kc/shortcodes/my-account/index.php:23
+#: ../includes/kc/shortcodes/product/index.php:23
+#: ../includes/kc/shortcodes/product-slider/index.php:23
+#: ../includes/kc/shortcodes/quote/index.php:24
+#: ../includes/kc/shortcodes/register/index.php:23
+#: ../includes/kc/shortcodes/static-counter/index.php:24
+#: ../includes/kc/shortcodes/wishlist/index.php:23
+msgid "Configurator"
+msgstr ""
+
+#: ../includes/kc/shortcodes/contact-form/index.php:48
+msgid "Form Style"
+msgstr ""
+
+#: ../includes/kc/shortcodes/contact-form/index.php:49
+msgid "Choose the form style"
+msgstr ""
+
+#: ../includes/kc/shortcodes/contact-form/index.php:67
+msgid "Form Fields"
+msgstr ""
+
+#: ../includes/kc/shortcodes/contact-form/index.php:69
+msgid ""
+"Repeat this fields with each item created, Each item corresponding form "
+"fields."
+msgstr ""
+
+#: ../includes/kc/shortcodes/contact-form/index.php:71
+#: ../includes/kc/shortcodes/my-account/index.php:86
+msgid "Add Field"
+msgstr ""
+
+#: ../includes/kc/shortcodes/contact-form/index.php:95
+msgid "Input Type"
+msgstr ""
+
+#: ../includes/kc/shortcodes/contact-form/index.php:97
+msgid "Choose the Input type"
+msgstr ""
+
+#: ../includes/kc/shortcodes/contact-form/index.php:114
+#: ../includes/kc/shortcodes/my-account/index.php:128
+msgid "Field Name"
+msgstr ""
+
+#: ../includes/kc/shortcodes/contact-form/index.php:115
+msgid "Please type the unique name. It helps to denote via email"
+msgstr ""
+
+#: ../includes/kc/shortcodes/contact-form/index.php:126
+#: ../includes/kc/shortcodes/my-account/index.php:136
+msgid "Label"
+msgstr ""
+
+#: ../includes/kc/shortcodes/contact-form/index.php:127
+#: ../includes/kc/shortcodes/my-account/index.php:137
+msgid "Please type the label."
+msgstr ""
+
+#: ../includes/kc/shortcodes/contact-form/index.php:138
+#: ../includes/kc/shortcodes/my-account/index.php:144
+msgid "Placeholder"
+msgstr ""
+
+#: ../includes/kc/shortcodes/contact-form/index.php:139
+msgid "Please type the placeholder"
+msgstr ""
+
+#: ../includes/kc/shortcodes/contact-form/index.php:150
+msgid "Input Width"
+msgstr ""
+
+#: ../includes/kc/shortcodes/contact-form/index.php:151
+msgid "Select the input width"
+msgstr ""
+
+#: ../includes/kc/shortcodes/contact-form/index.php:172
+msgid "Line Wrapping"
+msgstr ""
+
+#: ../includes/kc/shortcodes/contact-form/index.php:173
+msgid "Move the field to next line"
+msgstr ""
+
+#: ../includes/kc/shortcodes/contact-form/index.php:184
+msgid "Alphanumeric"
+msgstr ""
+
+#: ../includes/kc/shortcodes/contact-form/index.php:185
+msgid "Allow only alpha numeric characters"
+msgstr ""
+
+#: ../includes/kc/shortcodes/contact-form/index.php:200
+msgid "Required"
+msgstr ""
+
+#: ../includes/kc/shortcodes/contact-form/index.php:201
+msgid "Is this required field?"
+msgstr ""
+
+#: ../includes/kc/shortcodes/contact-form/index.php:216
+msgid "Option Set"
+msgstr ""
+
+#: ../includes/kc/shortcodes/contact-form/index.php:217
+msgid "Type the values separated with | symbol> Eg: value1|value2"
+msgstr ""
+
+#: ../includes/kc/shortcodes/contact-form/index.php:228
+msgid "Minimum Character Length"
+msgstr ""
+
+#: ../includes/kc/shortcodes/contact-form/index.php:229
+#: ../includes/kc/shortcodes/contact-form/index.php:241
+#: ../includes/kc/shortcodes/contact-form/index.php:253
+#: ../includes/kc/shortcodes/contact-form/index.php:277
+msgid "Type the numeric value. "
+msgstr ""
+
+#: ../includes/kc/shortcodes/contact-form/index.php:240
+msgid "Maximum Character Length"
+msgstr ""
+
+#: ../includes/kc/shortcodes/contact-form/index.php:252
+msgid "Minimum Checkbox Quantity"
+msgstr ""
+
+#: ../includes/kc/shortcodes/contact-form/index.php:264
+msgid "Help Text"
+msgstr ""
+
+#: ../includes/kc/shortcodes/contact-form/index.php:265
+msgid "Enter the help text"
+msgstr ""
+
+#: ../includes/kc/shortcodes/contact-form/index.php:276
+msgid "Maximum Checkbox Quantity"
+msgstr ""
+
+#: ../includes/kc/shortcodes/contact-form/index.php:288
+msgid "Icon"
+msgstr ""
+
+#: ../includes/kc/shortcodes/contact-form/index.php:289
+msgid "Choose icon if you want, it place inside the field"
+msgstr ""
+
+#: ../includes/kc/shortcodes/contact-form/index.php:300
+msgid "Submit Button Text"
+msgstr ""
+
+#: ../includes/kc/shortcodes/contact-form/index.php:301
+msgid "Please type the submit button text"
+msgstr ""
+
+#: ../includes/kc/shortcodes/contact-form/index.php:304
+#: ../includes/kc/shortcodes/contact-form/index.php:756
+msgid "Submit"
+msgstr ""
+
+#: ../includes/kc/shortcodes/contact-form/index.php:505
+msgid "Success Mesage"
+msgstr ""
+
+#: ../includes/kc/shortcodes/contact-form/index.php:506
+msgid "Enter the success message"
+msgstr ""
+
+#: ../includes/kc/shortcodes/contact-form/index.php:509
+#: ../includes/kc/shortcodes/contact-form/index.php:696
+#: ../includes/kc/shortcodes/contact-form/index.php:725
+msgid "Your message was successfully sent"
+msgstr ""
+
+#: ../includes/kc/shortcodes/contact-form/index.php:513
+msgid "Mail Disabled Message"
+msgstr ""
+
+#: ../includes/kc/shortcodes/contact-form/index.php:514
+msgid "Enter the mail disabled notice"
+msgstr ""
+
+#: ../includes/kc/shortcodes/contact-form/index.php:521
+msgid "Required Notice"
+msgstr ""
+
+#: ../includes/kc/shortcodes/contact-form/index.php:522
+msgid "Enter the required notice"
+msgstr ""
+
+#: ../includes/kc/shortcodes/contact-form/index.php:525
+#: ../includes/kc/shortcodes/contact-form/index.php:698
+msgid "You cannot leave this field as empty"
+msgstr ""
+
+#: ../includes/kc/shortcodes/contact-form/index.php:529
+msgid "Email Notice"
+msgstr ""
+
+#: ../includes/kc/shortcodes/contact-form/index.php:530
+msgid "Enter the email notice"
+msgstr ""
+
+#: ../includes/kc/shortcodes/contact-form/index.php:533
+#: ../includes/kc/shortcodes/contact-form/index.php:699
+msgid "You have not given a correct e-mail address"
+msgstr ""
+
+#: ../includes/kc/shortcodes/contact-form/index.php:537
+msgid "URL Notice"
+msgstr ""
+
+#: ../includes/kc/shortcodes/contact-form/index.php:538
+msgid "Enter the URL notice"
+msgstr ""
+
+#: ../includes/kc/shortcodes/contact-form/index.php:541
+#: ../includes/kc/shortcodes/contact-form/index.php:700
+msgid "The input value is not a correct URL"
+msgstr ""
+
+#: ../includes/kc/shortcodes/contact-form/index.php:545
+msgid "Number Notice"
+msgstr ""
+
+#: ../includes/kc/shortcodes/contact-form/index.php:546
+msgid "Enter the number notice"
+msgstr ""
+
+#: ../includes/kc/shortcodes/contact-form/index.php:549
+#: ../includes/kc/shortcodes/contact-form/index.php:701
+msgid "The input value was not a correct number"
+msgstr ""
+
+#: ../includes/kc/shortcodes/contact-form/index.php:553
+msgid "Character Length Notice"
+msgstr ""
+
+#: ../includes/kc/shortcodes/contact-form/index.php:554
+msgid "Enter the character length notice"
+msgstr ""
+
+#: ../includes/kc/shortcodes/contact-form/index.php:557
+#: ../includes/kc/shortcodes/contact-form/index.php:702
+msgid "Please follow the character range"
+msgstr ""
+
+#: ../includes/kc/shortcodes/contact-form/index.php:561
+msgid "Alphanumeric Notice"
+msgstr ""
+
+#: ../includes/kc/shortcodes/contact-form/index.php:562
+#: ../includes/kc/shortcodes/contact-form/index.php:570
+msgid "Enter the alphanumeric notice"
+msgstr ""
+
+#: ../includes/kc/shortcodes/contact-form/index.php:565
+#: ../includes/kc/shortcodes/contact-form/index.php:703
+msgid "The input value can only contain alphanumeric characters"
+msgstr ""
+
+#: ../includes/kc/shortcodes/contact-form/index.php:569
+msgid "Checkbox Quantity Notice"
+msgstr ""
+
+#: ../includes/kc/shortcodes/contact-form/index.php:573
+#: ../includes/kc/shortcodes/contact-form/index.php:704
+msgid "Please choose between in this range of items"
+msgstr ""
+
+#: ../includes/kc/shortcodes/contact-form/index.php:577
+msgid "reCaptcha Error Notice"
+msgstr ""
+
+#: ../includes/kc/shortcodes/contact-form/index.php:578
+msgid "Enter the recaptcha notice"
+msgstr ""
+
+#: ../includes/kc/shortcodes/contact-form/index.php:581
+#: ../includes/kc/shortcodes/contact-form/index.php:705
+#: ../includes/kc/shortcodes/contact-form/index.php:727
+msgid "You are a robot"
+msgstr ""
+
+#: ../includes/kc/shortcodes/contact-form/index.php:590
+msgid "Send To"
+msgstr ""
+
+#: ../includes/kc/shortcodes/contact-form/index.php:592
+msgid "Please pick the email address"
+msgstr ""
+
+#: ../includes/kc/shortcodes/contact-form/index.php:603
+msgid "Email Address"
+msgstr ""
+
+#: ../includes/kc/shortcodes/contact-form/index.php:604
+msgid "Enter the email address"
+msgstr ""
+
+#: ../includes/kc/shortcodes/contact-form/index.php:615
+msgid "Enable reCaptcha"
+msgstr ""
+
+#: ../includes/kc/shortcodes/contact-form/index.php:617
+msgid "Do you want to enable reptcha?"
+msgstr ""
+
+#: ../includes/kc/shortcodes/contact-form/index.php:632
+msgid "Subject"
+msgstr ""
+
+#: ../includes/kc/shortcodes/contact-form/index.php:633
+msgid "Enter the subject"
+msgstr ""
+
+#: ../includes/kc/shortcodes/contact-form/index.php:640
+msgid "Email Template"
+msgstr ""
+
+#: ../includes/kc/shortcodes/contact-form/index.php:642
+msgid "Please choose the email template"
+msgstr ""
+
+#: ../includes/kc/shortcodes/contact-form/index.php:653
+msgid "Html Template"
+msgstr ""
+
+#: ../includes/kc/shortcodes/contact-form/index.php:654
+msgid ""
+"Type the email template, For replacing form element use label like this "
+"{{Name}}, It prints the user value"
+msgstr ""
+
+#: ../includes/kc/shortcodes/contact-form/index.php:992
+msgid "Choose the option"
+msgstr ""
+
+#: ../includes/kc/shortcodes/go-back/index.php:20
+msgid "Go Back Link"
+msgstr ""
+
+#: ../includes/kc/shortcodes/go-back/index.php:21
+msgid "Display a go back link"
+msgstr ""
+
+#: ../includes/kc/shortcodes/go-back/index.php:23
+#: ../includes/kc/shortcodes/product-add-to-cart-btn/index.php:23
+#: ../includes/kc/shortcodes/product-category/index.php:23
+#: ../includes/kc/shortcodes/product-content/index.php:23
+#: ../includes/kc/shortcodes/product-image/index.php:23
+#: ../includes/kc/shortcodes/product-price/index.php:23
+#: ../includes/kc/shortcodes/product-share/index.php:23
+#: ../includes/kc/shortcodes/product-sku/index.php:23
+#: ../includes/kc/shortcodes/product-tab/index.php:23
+#: ../includes/kc/shortcodes/product-tags/index.php:23
+#: ../includes/kc/shortcodes/product-title/index.php:23
+#: ../includes/kc/shortcodes/product-wishlist-btn/index.php:23
+msgid "Shop"
+msgstr ""
+
+#: ../includes/kc/shortcodes/go-back/index.php:29
+msgid "Go Back Text"
+msgstr ""
+
+#: ../includes/kc/shortcodes/go-back/index.php:30
+msgid "Type the go back text"
+msgstr ""
+
+#: ../includes/kc/shortcodes/go-back/index.php:33
+#: ../includes/kc/shortcodes/go-back/index.php:83
+msgid "Go Back"
+msgstr ""
+
+#: ../includes/kc/shortcodes/login/index.php:20
+msgid "Login Form"
+msgstr ""
+
+#: ../includes/kc/shortcodes/login/index.php:21
+msgid "Display a Login form"
+msgstr ""
+
+#: ../includes/kc/shortcodes/login/index.php:29
+#: ../includes/kc/shortcodes/my-account/index.php:30
+msgid "Login Form Title"
+msgstr ""
+
+#: ../includes/kc/shortcodes/login/index.php:30
+#: ../includes/kc/shortcodes/my-account/index.php:31
+msgid "Enter the login form title"
+msgstr ""
+
+#: ../includes/kc/shortcodes/login/index.php:37
+#: ../includes/kc/shortcodes/my-account/index.php:38
+msgid "Login Button Text"
+msgstr ""
+
+#: ../includes/kc/shortcodes/login/index.php:38
+#: ../includes/kc/shortcodes/my-account/index.php:39
+msgid "Enter the login button text"
+msgstr ""
+
+#: ../includes/kc/shortcodes/login/index.php:84
+#: ../includes/kc/shortcodes/my-account/index.php:248
+#: ../includes/kc/shortcodes/my-account/index.php:304
+#: ../includes/kc/shortcodes/register/index.php:89
+msgid "Username"
+msgstr ""
+
+#: ../includes/kc/shortcodes/login/index.php:90
+#: ../includes/kc/shortcodes/my-account/index.php:227
+#: ../includes/kc/shortcodes/my-account/index.php:254
+msgid "Password"
+msgstr ""
+
+#: ../includes/kc/shortcodes/login/index.php:95
+#: ../includes/kc/shortcodes/my-account/index.php:259
+msgid "Remember Me?"
+msgstr ""
+
+#: ../includes/kc/shortcodes/login/live.php:23
+#: ../includes/kc/shortcodes/my-account/live.php:23
+#: ../includes/kc/shortcodes/register/live.php:23
+msgid "Forms not displayed via Ajax, Please save and refresh the page."
+msgstr ""
+
+#: ../includes/kc/shortcodes/my-account/index.php:20
+msgid "My Account"
+msgstr ""
+
+#: ../includes/kc/shortcodes/my-account/index.php:21
+msgid "Display a Login form/Register Form/My Account"
+msgstr ""
+
+#: ../includes/kc/shortcodes/my-account/index.php:46
+msgid "Reset Title"
+msgstr ""
+
+#: ../includes/kc/shortcodes/my-account/index.php:47
+msgid "Enter the reset form title"
+msgstr ""
+
+#: ../includes/kc/shortcodes/my-account/index.php:54
+msgid "Reset Button Text"
+msgstr ""
+
+#: ../includes/kc/shortcodes/my-account/index.php:55
+msgid "Enter the reset form button text"
+msgstr ""
+
+#: ../includes/kc/shortcodes/my-account/index.php:65
+msgid "My Account Title"
+msgstr ""
+
+#: ../includes/kc/shortcodes/my-account/index.php:66
+msgid "Enter the my account title"
+msgstr ""
+
+#: ../includes/kc/shortcodes/my-account/index.php:73
+msgid "Update Button Text"
+msgstr ""
+
+#: ../includes/kc/shortcodes/my-account/index.php:74
+msgid "Enter the update button text"
+msgstr ""
+
+#: ../includes/kc/shortcodes/my-account/index.php:82
+msgid "Custom Fields"
+msgstr ""
+
+#: ../includes/kc/shortcodes/my-account/index.php:84
+msgid ""
+"The default field created in this name( first_name | last_name | nice_name | "
+"display_name | website | email | password ). You can add custom fields as "
+"well using unique field name. By accessing the field value like this "
+"[usermeta field=\"first_name\"]"
+msgstr ""
+
+#: ../includes/kc/shortcodes/my-account/index.php:129
+msgid "Please type the unique name."
+msgstr ""
+
+#: ../includes/kc/shortcodes/my-account/index.php:145
+msgid "Please type the placeholder."
+msgstr ""
+
+#: ../includes/kc/shortcodes/my-account/index.php:158
+#: ../includes/kc/shortcodes/register/index.php:29
+msgid "Register Form Title"
+msgstr ""
+
+#: ../includes/kc/shortcodes/my-account/index.php:159
+#: ../includes/kc/shortcodes/register/index.php:30
+msgid "Enter the register form title"
+msgstr ""
+
+#: ../includes/kc/shortcodes/my-account/index.php:166
+#: ../includes/kc/shortcodes/register/index.php:37
+msgid "Register Button Text"
+msgstr ""
+
+#: ../includes/kc/shortcodes/my-account/index.php:167
+#: ../includes/kc/shortcodes/register/index.php:38
+msgid "Enter the register button text"
+msgstr ""
+
+#: ../includes/kc/shortcodes/my-account/index.php:261
+msgid "Cant't access your account?"
+msgstr ""
+
+#: ../includes/kc/shortcodes/my-account/index.php:261
+msgid "Forget Password?"
+msgstr ""
+
+#: ../includes/kc/shortcodes/my-account/index.php:275
+msgid ""
+"Enter your email address and we'll send you a link you can use to pick a new "
+"password"
+msgstr ""
+
+#: ../includes/kc/shortcodes/my-account/index.php:278
+msgid "Username or Email"
+msgstr ""
+
+#: ../includes/kc/shortcodes/my-account/index.php:283
+msgid "-OR-"
+msgstr ""
+
+#: ../includes/kc/shortcodes/my-account/index.php:283
+msgid "Cancel"
+msgstr ""
+
+#: ../includes/kc/shortcodes/my-account/index.php:310
+#: ../includes/kc/shortcodes/my-account/index.php:408
+#: ../includes/kc/shortcodes/register/index.php:95
+msgid "Email"
+msgstr ""
+
+#: ../includes/kc/shortcodes/my-account/index.php:325
+#: ../includes/kc/shortcodes/register/index.php:110
+msgid "Registration has been disabled for this site"
+msgstr ""
+
+#: ../includes/kc/shortcodes/my-account/index.php:356
+msgid "Logout?"
+msgstr ""
+
+#: ../includes/kc/shortcodes/my-account/index.php:368
+msgid "First Name"
+msgstr ""
+
+#: ../includes/kc/shortcodes/my-account/index.php:376
+msgid "Last Name"
+msgstr ""
+
+#: ../includes/kc/shortcodes/my-account/index.php:384
+msgid "Nice Name"
+msgstr ""
+
+#: ../includes/kc/shortcodes/my-account/index.php:392
+msgid "Display Name"
+msgstr ""
+
+#: ../includes/kc/shortcodes/my-account/index.php:400
+msgid "Website"
+msgstr ""
+
+#: ../includes/kc/shortcodes/my-account/index.php:416
+msgid "Old Password"
+msgstr ""
+
+#: ../includes/kc/shortcodes/my-account/index.php:422
+msgid "New Password"
+msgstr ""
+
+#: ../includes/kc/shortcodes/product/index.php:20
+#: ../includes/kc/shortcodes/wishlist/index.php:82
+#: ../includes/metaboxes/shop-metabox.php:17
+msgid "Product"
+msgstr ""
+
+#: ../includes/kc/shortcodes/product/index.php:21
+msgid "Display a products"
+msgstr ""
+
+#: ../includes/kc/shortcodes/product/index.php:31
+#: ../includes/kc/shortcodes/product-slider/index.php:31
+msgid "Depends On"
+msgstr ""
+
+#: ../includes/kc/shortcodes/product/index.php:32
+#: ../includes/kc/shortcodes/product-slider/index.php:32
+msgid "How you want to insert items?"
+msgstr ""
+
+#: ../includes/kc/shortcodes/product/index.php:38
+#: ../includes/kc/shortcodes/product-slider/index.php:38
+msgid "Recent Product"
+msgstr ""
+
+#: ../includes/kc/shortcodes/product/index.php:40
+#: ../includes/kc/shortcodes/product-slider/index.php:40
+msgid "Feature Product"
+msgstr ""
+
+#: ../includes/kc/shortcodes/product/index.php:41
+#: ../includes/kc/shortcodes/product-slider/index.php:41
+msgid "category"
+msgstr ""
+
+#: ../includes/kc/shortcodes/product/index.php:46
+#: ../includes/kc/shortcodes/product-add-to-cart-btn/index.php:29
+#: ../includes/kc/shortcodes/product-category/index.php:29
+#: ../includes/kc/shortcodes/product-content/index.php:29
+#: ../includes/kc/shortcodes/product-image/index.php:29
+#: ../includes/kc/shortcodes/product-price/index.php:29
+#: ../includes/kc/shortcodes/product-share/index.php:29
+#: ../includes/kc/shortcodes/product-sku/index.php:29
+#: ../includes/kc/shortcodes/product-slider/index.php:46
+#: ../includes/kc/shortcodes/product-tab/index.php:29
+#: ../includes/kc/shortcodes/product-tags/index.php:29
+#: ../includes/kc/shortcodes/product-title/index.php:29
+#: ../includes/kc/shortcodes/product-wishlist-btn/index.php:29
+msgid "Product ID"
+msgstr ""
+
+#: ../includes/kc/shortcodes/product/index.php:47
+#: ../includes/kc/shortcodes/product-slider/index.php:47
+msgid "Type the product IDs separated with commas"
+msgstr ""
+
+#: ../includes/kc/shortcodes/product/index.php:54
+#: ../includes/kc/shortcodes/product-slider/index.php:54
+msgid "Product Category"
+msgstr ""
+
+#: ../includes/kc/shortcodes/product/index.php:55
+#: ../includes/kc/shortcodes/product-slider/index.php:55
+msgid "Type the product category slugs separated with commas"
+msgstr ""
+
+#: ../includes/kc/shortcodes/product/index.php:62
+#: ../includes/kc/shortcodes/product-slider/index.php:62
+msgid "Number of items"
+msgstr ""
+
+#: ../includes/kc/shortcodes/product/index.php:63
+#: ../includes/kc/shortcodes/product-slider/index.php:63
+msgid ""
+"Enter the number of items you want to display (only numbers), Enter -1 for "
+"all items"
+msgstr ""
+
+#: ../includes/kc/shortcodes/product/index.php:70
+#: ../includes/kc/shortcodes/product-slider/index.php:70
+msgid "Order"
+msgstr ""
+
+#: ../includes/kc/shortcodes/product/index.php:71
+#: ../includes/kc/shortcodes/product-slider/index.php:71
+msgid "Choose the sorting order"
+msgstr ""
+
+#: ../includes/kc/shortcodes/product/index.php:79
+#: ../includes/kc/shortcodes/product-slider/index.php:79
+msgid "Orderby"
+msgstr ""
+
+#: ../includes/kc/shortcodes/product/index.php:80
+#: ../includes/kc/shortcodes/product-slider/index.php:80
+msgid "Which way you want to order?"
+msgstr ""
+
+#: ../includes/kc/shortcodes/product/index.php:88
+#: ../includes/kc/shortcodes/quote/index.php:31
+msgid "Style"
+msgstr ""
+
+#: ../includes/kc/shortcodes/product/index.php:89
+msgid "Choose the style"
+msgstr ""
+
+#: ../includes/kc/shortcodes/product/index.php:95
+#: ../includes/kc/shortcodes/quote/index.php:38
+msgid "Style 1"
+msgstr ""
+
+#: ../includes/kc/shortcodes/product/index.php:96
+#: ../includes/kc/shortcodes/quote/index.php:39
+msgid "Style 2"
+msgstr ""
+
+#: ../includes/kc/shortcodes/product/index.php:101
+msgid "Column"
+msgstr ""
+
+#: ../includes/kc/shortcodes/product/index.php:102
+msgid "Choose the column. This setting only applies at style2"
+msgstr ""
+
+#: ../includes/kc/shortcodes/product/index.php:108
+msgid "3 Column"
+msgstr ""
+
+#: ../includes/kc/shortcodes/product/index.php:109
+msgid "4 Column"
+msgstr ""
+
+#: ../includes/kc/shortcodes/product/index.php:114
+msgid "Title Length"
+msgstr ""
+
+#: ../includes/kc/shortcodes/product/index.php:115
+msgid "Type the integer value for the character limits."
+msgstr ""
+
+#: ../includes/kc/shortcodes/product/index.php:122
+#: ../includes/kc/shortcodes/wishlist/index.php:84
+msgid "Price"
+msgstr ""
+
+#: ../includes/kc/shortcodes/product/index.php:123
+msgid "Show/Hide Price"
+msgstr ""
+
+#: ../includes/kc/shortcodes/product/index.php:128
+#: ../includes/kc/shortcodes/product-slider/index.php:102
+#: ../includes/kc/shortcodes/product-slider/index.php:114
+#: ../includes/kc/shortcodes/product-slider/index.php:126
+#: ../includes/metaboxes/page-metabox.php:322
+#: ../includes/metaboxes/page-metabox.php:336
+#: ../includes/metaboxes/post-metabox.php:324
+#: ../includes/metaboxes/post-metabox.php:338
+#: ../includes/metaboxes/shop-metabox.php:360
+#: ../includes/metaboxes/shop-metabox.php:374
+msgid "Show"
+msgstr ""
+
+#: ../includes/kc/shortcodes/product/index.php:129
+#: ../includes/kc/shortcodes/product-slider/index.php:103
+#: ../includes/kc/shortcodes/product-slider/index.php:115
+#: ../includes/kc/shortcodes/product-slider/index.php:127
+#: ../includes/metaboxes/page-metabox.php:323
+#: ../includes/metaboxes/page-metabox.php:337
+#: ../includes/metaboxes/post-metabox.php:325
+#: ../includes/metaboxes/post-metabox.php:339
+#: ../includes/metaboxes/shop-metabox.php:361
+#: ../includes/metaboxes/shop-metabox.php:375
+msgid "Hide"
+msgstr ""
+
+#: ../includes/kc/shortcodes/product/index.php:165
+#: ../includes/kc/shortcodes/product/index.php:243
+#: ../includes/kc/shortcodes/product-slider/index.php:163
+msgid "Type the button Size"
+msgstr ""
+
+#: ../includes/kc/shortcodes/product/index.php:178
+#: ../includes/kc/shortcodes/product/index.php:256
+#: ../includes/kc/shortcodes/product-slider/index.php:176
+msgid "Type the button Type"
+msgstr ""
+
+#: ../includes/kc/shortcodes/product/index.php:204
+#: ../includes/kc/shortcodes/product/index.php:282
+#: ../includes/kc/shortcodes/product-slider/index.php:202
+msgid "Button Text"
+msgstr ""
+
+#: ../includes/kc/shortcodes/product/index.php:205
+#: ../includes/kc/shortcodes/product/index.php:283
+#: ../includes/kc/shortcodes/product-slider/index.php:203
+msgid "Type the button text"
+msgstr ""
+
+#: ../includes/kc/shortcodes/product/index.php:208
+#: ../includes/kc/shortcodes/product/index.php:416
+msgid "Add to Cart"
+msgstr ""
+
+#: ../includes/kc/shortcodes/product/index.php:286
+#: ../includes/kc/shortcodes/product/index.php:423
+#: ../includes/kc/shortcodes/product-slider/index.php:206
+#: ../includes/kc/shortcodes/product-slider/index.php:487
+#: ../includes/shortcodes/shortcodes.php:18
+msgid "Select"
+msgstr ""
+
+#: ../includes/kc/shortcodes/product/index.php:537
+msgid "adding..."
+msgstr ""
+
+#: ../includes/kc/shortcodes/product/index.php:538
+msgid "In Cart"
+msgstr ""
+
+#: ../includes/kc/shortcodes/product-add-to-cart-btn/index.php:20
+msgid "Product Add to Cart Form"
+msgstr ""
+
+#: ../includes/kc/shortcodes/product-add-to-cart-btn/index.php:21
+msgid "Display a product add to cart form"
+msgstr ""
+
+#: ../includes/kc/shortcodes/product-add-to-cart-btn/index.php:30
+#: ../includes/kc/shortcodes/product-category/index.php:30
+#: ../includes/kc/shortcodes/product-content/index.php:30
+#: ../includes/kc/shortcodes/product-image/index.php:30
+#: ../includes/kc/shortcodes/product-price/index.php:30
+#: ../includes/kc/shortcodes/product-share/index.php:30
+#: ../includes/kc/shortcodes/product-sku/index.php:30
+#: ../includes/kc/shortcodes/product-tab/index.php:30
+#: ../includes/kc/shortcodes/product-tags/index.php:30
+#: ../includes/kc/shortcodes/product-title/index.php:30
+#: ../includes/kc/shortcodes/product-wishlist-btn/index.php:30
+msgid ""
+"Type the Product ID, Leave it empty if you adding on single product page"
+msgstr ""
+
+#: ../includes/kc/shortcodes/product-category/index.php:20
+msgid "Product Catogory"
+msgstr ""
+
+#: ../includes/kc/shortcodes/product-category/index.php:21
+msgid "Display a product category"
+msgstr ""
+
+#: ../includes/kc/shortcodes/product-category/index.php:36
+msgid "Category Seperator"
+msgstr ""
+
+#: ../includes/kc/shortcodes/product-category/index.php:37
+#: ../includes/kc/shortcodes/product-tags/index.php:37
+msgid "Type the seperator"
+msgstr ""
+
+#: ../includes/kc/shortcodes/product-category/index.php:44
+#: ../includes/kc/shortcodes/product-tags/index.php:44
+msgid "Singular Prefix"
+msgstr ""
+
+#: ../includes/kc/shortcodes/product-category/index.php:45
+#: ../includes/kc/shortcodes/product-category/index.php:53
+#: ../includes/kc/shortcodes/product-tags/index.php:45
+#: ../includes/kc/shortcodes/product-tags/index.php:53
+msgid "Type the prefix"
+msgstr ""
+
+#: ../includes/kc/shortcodes/product-category/index.php:48
+#: ../includes/kc/shortcodes/product-category/index.php:117
+#: ../includes/kc/shortcodes/product-tags/index.php:117
+msgid "Category:"
+msgstr ""
+
+#: ../includes/kc/shortcodes/product-category/index.php:52
+#: ../includes/kc/shortcodes/product-tags/index.php:52
+msgid "Plural Prefix"
+msgstr ""
+
+#: ../includes/kc/shortcodes/product-category/index.php:56
+#: ../includes/kc/shortcodes/product-category/index.php:118
+#: ../includes/kc/shortcodes/product-tags/index.php:118
+msgid "Categories:"
+msgstr ""
+
+#: ../includes/kc/shortcodes/product-content/index.php:20
+msgid "Product Content"
+msgstr ""
+
+#: ../includes/kc/shortcodes/product-content/index.php:21
+msgid "Display a product content"
+msgstr ""
+
+#: ../includes/kc/shortcodes/product-image/index.php:20
+msgid "Product Image"
+msgstr ""
+
+#: ../includes/kc/shortcodes/product-image/index.php:21
+msgid "Display a product image"
+msgstr ""
+
+#: ../includes/kc/shortcodes/product-image/index.php:36
+msgid "Image Width"
+msgstr ""
+
+#: ../includes/kc/shortcodes/product-image/index.php:37
+msgid "Type the image width in integer"
+msgstr ""
+
+#: ../includes/kc/shortcodes/product-image/index.php:44
+msgid "Image Height"
+msgstr ""
+
+#: ../includes/kc/shortcodes/product-image/index.php:45
+msgid "Type the image height in integer"
+msgstr ""
+
+#: ../includes/kc/shortcodes/product-price/index.php:20
+msgid "Product Price"
+msgstr ""
+
+#: ../includes/kc/shortcodes/product-price/index.php:21
+msgid "Display a product price"
+msgstr ""
+
+#: ../includes/kc/shortcodes/product-share/index.php:20
+msgid "Product Share"
+msgstr ""
+
+#: ../includes/kc/shortcodes/product-share/index.php:21
+msgid "Display a product share options"
+msgstr ""
+
+#: ../includes/kc/shortcodes/product-share/index.php:36
+msgid "Share Options"
+msgstr ""
+
+#: ../includes/kc/shortcodes/product-share/index.php:39
+msgid "Facebook"
+msgstr ""
+
+#: ../includes/kc/shortcodes/product-share/index.php:40
+msgid "Twitter"
+msgstr ""
+
+#: ../includes/kc/shortcodes/product-share/index.php:41
+msgid "Google Plus"
+msgstr ""
+
+#: ../includes/kc/shortcodes/product-share/index.php:42
+msgid "Linkedin"
+msgstr ""
+
+#: ../includes/kc/shortcodes/product-share/index.php:43
+msgid "Pinterest"
+msgstr ""
+
+#: ../includes/kc/shortcodes/product-share/index.php:45
+msgid "Choose the Share Options"
+msgstr ""
+
+#: ../includes/kc/shortcodes/product-sku/index.php:20
+msgid "Product SKU"
+msgstr ""
+
+#: ../includes/kc/shortcodes/product-sku/index.php:21
+msgid "Display a product sku"
+msgstr ""
+
+#: ../includes/kc/shortcodes/product-sku/index.php:36
+#: ../includes/kc/shortcodes/static-counter/index.php:32
+msgid "Type the title"
+msgstr ""
+
+#: ../includes/kc/shortcodes/product-sku/index.php:39
+#: ../includes/kc/shortcodes/product-sku/index.php:96
+msgid "SKU:"
+msgstr ""
+
+#: ../includes/kc/shortcodes/product-sku/index.php:112
+msgid "N/A"
+msgstr ""
+
+#: ../includes/kc/shortcodes/product-slider/index.php:20
+msgid "Product Slider"
+msgstr ""
+
+#: ../includes/kc/shortcodes/product-slider/index.php:21
+msgid "Display a product slider"
+msgstr ""
+
+#: ../includes/kc/shortcodes/product-slider/index.php:88
+msgid "Slider Background Text Font Size"
+msgstr ""
+
+#: ../includes/kc/shortcodes/product-slider/index.php:89
+msgid "Enter the font size in px"
+msgstr ""
+
+#: ../includes/kc/shortcodes/product-slider/index.php:96
+msgid "Slider Title"
+msgstr ""
+
+#: ../includes/kc/shortcodes/product-slider/index.php:97
+msgid "Do you want to show slider title"
+msgstr ""
+
+#: ../includes/kc/shortcodes/product-slider/index.php:108
+#: ../includes/metaboxes/shop-metabox.php:51
+msgid "Slider Description"
+msgstr ""
+
+#: ../includes/kc/shortcodes/product-slider/index.php:109
+msgid "Do you want to show slider short description"
+msgstr ""
+
+#: ../includes/kc/shortcodes/product-slider/index.php:120
+msgid "Slider Price"
+msgstr ""
+
+#: ../includes/kc/shortcodes/product-slider/index.php:121
+msgid "Do you want to show slider price"
+msgstr ""
+
+#: ../includes/kc/shortcodes/product-slider/index.php:210
+msgid "Button Target"
+msgstr ""
+
+#: ../includes/kc/shortcodes/product-slider/index.php:211
+msgid "Choose the link target"
+msgstr ""
+
+#: ../includes/kc/shortcodes/product-slider/index.php:216
+#: ../includes/kc/shortcodes/product-slider/index.php:217
+msgid "Open Same Page"
+msgstr ""
+
+#: ../includes/kc/shortcodes/product-slider/index.php:226
+msgid "Enable autoplay"
+msgstr ""
+
+#: ../includes/kc/shortcodes/product-slider/index.php:227
+msgid "Do you want to enable autoplay"
+msgstr ""
+
+#: ../includes/kc/shortcodes/product-slider/index.php:232
+#: ../includes/kc/shortcodes/product-slider/index.php:268
+#: ../includes/kc/shortcodes/product-slider/index.php:280
+#: ../includes/kc/shortcodes/product-slider/index.php:292
+#: ../includes/kc/shortcodes/product-slider/index.php:304
+#: ../includes/kc/shortcodes/product-slider/index.php:316
+#: ../includes/kc/shortcodes/product-slider/index.php:328
+#: ../includes/kc/shortcodes/product-slider/index.php:340
+#: ../includes/kc/shortcodes/wishlist/index.php:35
+msgid "Yes"
+msgstr ""
+
+#: ../includes/kc/shortcodes/product-slider/index.php:233
+#: ../includes/kc/shortcodes/product-slider/index.php:269
+#: ../includes/kc/shortcodes/product-slider/index.php:281
+#: ../includes/kc/shortcodes/product-slider/index.php:293
+#: ../includes/kc/shortcodes/product-slider/index.php:305
+#: ../includes/kc/shortcodes/product-slider/index.php:317
+#: ../includes/kc/shortcodes/product-slider/index.php:329
+#: ../includes/kc/shortcodes/product-slider/index.php:341
+#: ../includes/kc/shortcodes/wishlist/index.php:36
+msgid "No"
+msgstr ""
+
+#: ../includes/kc/shortcodes/product-slider/index.php:238
+msgid "Slide Speed"
+msgstr ""
+
+#: ../includes/kc/shortcodes/product-slider/index.php:239
+msgid "Enter the Value in milesecond (Ex: 5000)"
+msgstr ""
+
+#: ../includes/kc/shortcodes/product-slider/index.php:246
+msgid "Slide Margin"
+msgstr ""
+
+#: ../includes/kc/shortcodes/product-slider/index.php:247
+#: ../includes/kc/shortcodes/product-slider/index.php:255
+msgid "Enter the integer value (Ex: 30)"
+msgstr ""
+
+#: ../includes/kc/shortcodes/product-slider/index.php:254
+msgid "Stage Padding"
+msgstr ""
+
+#: ../includes/kc/shortcodes/product-slider/index.php:262
+msgid "Arrow"
+msgstr ""
+
+#: ../includes/kc/shortcodes/product-slider/index.php:263
+msgid "Do you want to display arrows?"
+msgstr ""
+
+#: ../includes/kc/shortcodes/product-slider/index.php:274
+msgid "Pagination"
+msgstr ""
+
+#: ../includes/kc/shortcodes/product-slider/index.php:275
+msgid "Do you want to display pagination dots?"
+msgstr ""
+
+#: ../includes/kc/shortcodes/product-slider/index.php:286
+msgid "Loop"
+msgstr ""
+
+#: ../includes/kc/shortcodes/product-slider/index.php:287
+msgid "Inifnity loop. Duplicate last and first items to get loop illusion."
+msgstr ""
+
+#: ../includes/kc/shortcodes/product-slider/index.php:298
+msgid "Mouse Drag"
+msgstr ""
+
+#: ../includes/kc/shortcodes/product-slider/index.php:299
+msgid "Do you want to change the slide using mouse drag"
+msgstr ""
+
+#: ../includes/kc/shortcodes/product-slider/index.php:310
+msgid "Touch Drag"
+msgstr ""
+
+#: ../includes/kc/shortcodes/product-slider/index.php:311
+msgid "Do you want to change the slide using touch drag(in touch devices)"
+msgstr ""
+
+#: ../includes/kc/shortcodes/product-slider/index.php:322
+msgid "Stop on Hover"
+msgstr ""
+
+#: ../includes/kc/shortcodes/product-slider/index.php:323
+msgid "If the mouse pointer is placed on slider it will pause"
+msgstr ""
+
+#: ../includes/kc/shortcodes/product-slider/index.php:334
+msgid "Auto Height"
+msgstr ""
+
+#: ../includes/kc/shortcodes/product-slider/index.php:335
+msgid "slider Auto height"
+msgstr ""
+
+#: ../includes/kc/shortcodes/product-slider/index.php:624
+#: ../includes/shortcodes/shortcodes.php:77
+msgid "Base Price"
+msgstr ""
+
+#: ../includes/kc/shortcodes/product-tab/index.php:20
+msgid "Product Tab"
+msgstr ""
+
+#: ../includes/kc/shortcodes/product-tab/index.php:21
+msgid "Display a product tab"
+msgstr ""
+
+#: ../includes/kc/shortcodes/product-tags/index.php:20
+msgid "Product Tags"
+msgstr ""
+
+#: ../includes/kc/shortcodes/product-tags/index.php:21
+msgid "Display a product tags"
+msgstr ""
+
+#: ../includes/kc/shortcodes/product-tags/index.php:36
+msgid "Tag Seperator"
+msgstr ""
+
+#: ../includes/kc/shortcodes/product-tags/index.php:48
+msgid "Tag:"
+msgstr ""
+
+#: ../includes/kc/shortcodes/product-tags/index.php:56
+msgid "Tags:"
+msgstr ""
+
+#: ../includes/kc/shortcodes/product-title/index.php:20
+msgid "Product Title"
+msgstr ""
+
+#: ../includes/kc/shortcodes/product-title/index.php:21
+msgid "Display a product title"
+msgstr ""
+
+#: ../includes/kc/shortcodes/product-wishlist-btn/index.php:20
+msgid "Product Wishlist Button"
+msgstr ""
+
+#: ../includes/kc/shortcodes/product-wishlist-btn/index.php:21
+msgid "Display a product wishlist button"
+msgstr ""
+
+#: ../includes/kc/shortcodes/product-wishlist-btn/index.php:35
+msgid "Wishlist Text"
+msgstr ""
+
+#: ../includes/kc/shortcodes/product-wishlist-btn/index.php:36
+msgid "Type the Wishlist Text"
+msgstr ""
+
+#: ../includes/kc/shortcodes/product-wishlist-btn/index.php:39
+#: ../includes/kc/shortcodes/product-wishlist-btn/index.php:88
+msgid "Add to Wishlist"
+msgstr ""
+
+#: ../includes/kc/shortcodes/quote/index.php:20
+msgid "Quote"
+msgstr ""
+
+#: ../includes/kc/shortcodes/quote/index.php:21
+msgid "Display a quote"
+msgstr ""
+
+#: ../includes/kc/shortcodes/quote/index.php:32
+msgid "Choose the quote style"
+msgstr ""
+
+#: ../includes/kc/shortcodes/quote/index.php:40
+msgid "Style 3"
+msgstr ""
+
+#: ../includes/kc/shortcodes/quote/index.php:45
+msgid "Content"
+msgstr ""
+
+#: ../includes/kc/shortcodes/quote/index.php:46
+msgid "Type the quote content"
+msgstr ""
+
+#: ../includes/kc/shortcodes/quote/index.php:54
+msgid "Type the author name"
+msgstr ""
+
+#: ../includes/kc/shortcodes/quote/index.php:64
+msgid "css"
+msgstr ""
+
+#: ../includes/kc/shortcodes/register/index.php:20
+msgid "Register"
+msgstr ""
+
+#: ../includes/kc/shortcodes/register/index.php:21
+msgid "Display a Register Form"
+msgstr ""
+
+#: ../includes/kc/shortcodes/static-counter/index.php:20
+msgid "Static Counter"
+msgstr ""
+
+#: ../includes/kc/shortcodes/static-counter/index.php:21
+msgid "Display a static counter"
+msgstr ""
+
+#: ../includes/kc/shortcodes/static-counter/index.php:39
+msgid "Number"
+msgstr ""
+
+#: ../includes/kc/shortcodes/static-counter/index.php:40
+msgid "Type the number"
+msgstr ""
+
+#: ../includes/kc/shortcodes/static-counter/index.php:47
+msgid "Sub Text"
+msgstr ""
+
+#: ../includes/kc/shortcodes/static-counter/index.php:48
+msgid "Enter the sub text after number"
+msgstr ""
+
+#: ../includes/kc/shortcodes/static-counter/index.php:55
+msgid "Description"
+msgstr ""
+
+#: ../includes/kc/shortcodes/static-counter/index.php:56
+msgid "Type the description here"
+msgstr ""
+
+#: ../includes/kc/shortcodes/wishlist/index.php:20
+msgid "Wishlist"
+msgstr ""
+
+#: ../includes/kc/shortcodes/wishlist/index.php:21
+msgid "Display a wishlist"
+msgstr ""
+
+#: ../includes/kc/shortcodes/wishlist/index.php:29
+msgid "Remove Wishlist"
+msgstr ""
+
+#: ../includes/kc/shortcodes/wishlist/index.php:30
+msgid "Show remove wishlist button"
+msgstr ""
+
+#: ../includes/kc/shortcodes/wishlist/index.php:100
+msgid "Remove"
+msgstr ""
+
+#: ../includes/kc/shortcodes/wishlist/index.php:111
+msgid "No wishlist found"
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:23
+msgid "Page Options"
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:32
+#: ../includes/metaboxes/post-metabox.php:32
+#: ../includes/metaboxes/shop-metabox.php:70
+msgid "General"
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:39
+#: ../includes/metaboxes/post-metabox.php:39
+#: ../includes/metaboxes/shop-metabox.php:77
+msgid "Logo"
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:40
+#: ../includes/metaboxes/post-metabox.php:40
+#: ../includes/metaboxes/shop-metabox.php:78
+msgid "Choose logo for this page."
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:48
+#: ../includes/metaboxes/post-metabox.php:48
+#: ../includes/metaboxes/shop-metabox.php:86
+msgid "Wide &amp; Boxed &amp; Frame Layout"
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:49
+#: ../includes/metaboxes/post-metabox.php:49
+#: ../includes/metaboxes/shop-metabox.php:87
+msgid ""
+"Choose Header Layout. Boxed = max header width is 1200px; Wide = header "
+"covers the viewport. Frame = White space around the edges."
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:62
+#: ../includes/metaboxes/post-metabox.php:62
+#: ../includes/metaboxes/shop-metabox.php:100
+msgid "Main Navigation"
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:63
+#: ../includes/metaboxes/post-metabox.php:63
+#: ../includes/metaboxes/shop-metabox.php:101
+msgid "Select main navigation for this page"
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:71
+#: ../includes/metaboxes/post-metabox.php:71
+#: ../includes/metaboxes/shop-metabox.php:109
+msgid "Body Background Color"
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:72
+#: ../includes/metaboxes/post-metabox.php:72
+#: ../includes/metaboxes/shop-metabox.php:110
+msgid ""
+"You can choose body background color here. Leave it empty to apply defaults"
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:79
+#: ../includes/metaboxes/post-metabox.php:79
+#: ../includes/metaboxes/shop-metabox.php:117
+msgid "Show/Hide Footer"
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:80
+#: ../includes/metaboxes/post-metabox.php:80
+#: ../includes/metaboxes/shop-metabox.php:118
+msgid "Do you want to display footer?"
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:91
+#: ../includes/metaboxes/post-metabox.php:91
+#: ../includes/metaboxes/shop-metabox.php:129
+msgid "Layout"
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:98
+#: ../includes/metaboxes/post-metabox.php:98
+#: ../includes/metaboxes/shop-metabox.php:136
+msgid "Page Layout"
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:99
+#: ../includes/metaboxes/post-metabox.php:99
+#: ../includes/metaboxes/shop-metabox.php:137
+msgid "Choose page layout"
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:113
+#: ../includes/metaboxes/post-metabox.php:113
+#: ../includes/metaboxes/shop-metabox.php:151
+msgid "Select Sidebar"
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:114
+#: ../includes/metaboxes/post-metabox.php:114
+#: ../includes/metaboxes/shop-metabox.php:152
+msgid "Select Sidebar For this page."
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:120
+#: ../includes/metaboxes/post-metabox.php:120
+#: ../includes/metaboxes/shop-metabox.php:158
+msgid "Header"
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:127
+#: ../includes/metaboxes/post-metabox.php:127
+#: ../includes/metaboxes/shop-metabox.php:165
+msgid "Show/Hide Header?"
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:128
+#: ../includes/metaboxes/post-metabox.php:128
+#: ../includes/metaboxes/shop-metabox.php:166
+msgid "Do you want to show/hide the header?"
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:141
+#: ../includes/metaboxes/post-metabox.php:141
+#: ../includes/metaboxes/shop-metabox.php:179
+msgid "Header Layout"
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:142
+#: ../includes/metaboxes/post-metabox.php:142
+#: ../includes/metaboxes/shop-metabox.php:180
+msgid "Choose header layout"
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:155
+#: ../includes/metaboxes/post-metabox.php:157
+#: ../includes/metaboxes/shop-metabox.php:193
+msgid "Header Layout Style."
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:156
+#: ../includes/metaboxes/post-metabox.php:158
+#: ../includes/metaboxes/shop-metabox.php:194
+msgid ""
+"Choose Header Layout. Boxed = max header width is 1200px; Wide = header "
+"covers the viewport."
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:168
+#: ../includes/metaboxes/post-metabox.php:170
+#: ../includes/metaboxes/shop-metabox.php:206
+msgid "Header Background Style"
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:169
+#: ../includes/metaboxes/post-metabox.php:171
+#: ../includes/metaboxes/shop-metabox.php:207
+msgid "Choose the Header Background Style"
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:182
+#: ../includes/metaboxes/post-metabox.php:184
+#: ../includes/metaboxes/shop-metabox.php:220
+msgid "Show Header border?"
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:183
+#: ../includes/metaboxes/post-metabox.php:185
+#: ../includes/metaboxes/shop-metabox.php:221
+msgid "Show/Hide Header border"
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:196
+#: ../includes/metaboxes/post-metabox.php:198
+#: ../includes/metaboxes/shop-metabox.php:234
+msgid "Transparent Header"
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:197
+#: ../includes/metaboxes/post-metabox.php:199
+#: ../includes/metaboxes/shop-metabox.php:235
+msgid "Do you want to enable the transparent header?"
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:211
+#: ../includes/metaboxes/post-metabox.php:213
+#: ../includes/metaboxes/shop-metabox.php:249
+msgid "Transparent Header Opacity"
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:212
+#: ../includes/metaboxes/post-metabox.php:214
+#: ../includes/metaboxes/shop-metabox.php:250
+msgid "Type the alpha value. Eg: 0 to 90"
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:223
+#: ../includes/metaboxes/post-metabox.php:225
+#: ../includes/metaboxes/shop-metabox.php:261
+msgid "Top Header"
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:224
+#: ../includes/metaboxes/post-metabox.php:226
+#: ../includes/metaboxes/shop-metabox.php:262
+msgid "Do you want to show the top header?"
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:238
+#: ../includes/metaboxes/post-metabox.php:240
+#: ../includes/metaboxes/shop-metabox.php:276
+msgid "Top Header Position"
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:239
+#: ../includes/metaboxes/post-metabox.php:241
+#: ../includes/metaboxes/shop-metabox.php:277
+msgid "Select the position of the top header"
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:253
+#: ../includes/metaboxes/post-metabox.php:255
+#: ../includes/metaboxes/shop-metabox.php:291
+msgid "Top Section Style"
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:254
+#: ../includes/metaboxes/post-metabox.php:256
+#: ../includes/metaboxes/shop-metabox.php:292
+msgid "Choose the Top Section Style"
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:266
+#: ../includes/metaboxes/post-metabox.php:268
+#: ../includes/metaboxes/shop-metabox.php:304
+msgid "Title Bar"
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:273
+#: ../includes/metaboxes/post-metabox.php:275
+#: ../includes/metaboxes/shop-metabox.php:311
+msgid "Title bar"
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:274
+#: ../includes/metaboxes/post-metabox.php:276
+#: ../includes/metaboxes/shop-metabox.php:312
+msgid "Show / Hide Title bar in this page"
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:288
+#: ../includes/metaboxes/post-metabox.php:290
+#: ../includes/metaboxes/shop-metabox.php:326
+msgid "Title bar style"
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:289
+#: ../includes/metaboxes/post-metabox.php:291
+#: ../includes/metaboxes/shop-metabox.php:327
+msgid "Choose the title bar style"
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:293
+#: ../includes/metaboxes/post-metabox.php:295
+#: ../includes/metaboxes/shop-metabox.php:331
+msgid "Sub Banner Left"
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:294
+#: ../includes/metaboxes/post-metabox.php:296
+#: ../includes/metaboxes/shop-metabox.php:332
+msgid "Sub Banner Center"
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:303
+#: ../includes/metaboxes/post-metabox.php:305
+#: ../includes/metaboxes/shop-metabox.php:341
+msgid "Title bar method"
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:304
+#: ../includes/metaboxes/post-metabox.php:306
+#: ../includes/metaboxes/shop-metabox.php:342
+msgid "Choose the title bar method"
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:308
+#: ../includes/metaboxes/post-metabox.php:310
+#: ../includes/metaboxes/shop-metabox.php:346
+msgid "Hyphen"
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:309
+#: ../includes/metaboxes/post-metabox.php:311
+#: ../includes/metaboxes/shop-metabox.php:347
+msgid "Slash"
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:317
+#: ../includes/metaboxes/post-metabox.php:319
+#: ../includes/metaboxes/shop-metabox.php:355
+msgid "Go back link"
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:318
+#: ../includes/metaboxes/post-metabox.php:320
+#: ../includes/metaboxes/shop-metabox.php:356
+msgid "Show/hide go back link"
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:331
+#: ../includes/metaboxes/post-metabox.php:333
+#: ../includes/metaboxes/shop-metabox.php:369
+msgid "Show title"
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:332
+#: ../includes/metaboxes/post-metabox.php:334
+#: ../includes/metaboxes/shop-metabox.php:370
+msgid "Show/hide title bar title"
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:345
+#: ../includes/metaboxes/post-metabox.php:347
+#: ../includes/metaboxes/shop-metabox.php:383
+msgid "Sub title"
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:346
+#: ../includes/metaboxes/post-metabox.php:348
+#: ../includes/metaboxes/shop-metabox.php:384
+msgid "Type the sub title"
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:357
+#: ../includes/metaboxes/post-metabox.php:359
+#: ../includes/metaboxes/shop-metabox.php:395
+msgid "Share Below Title"
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:358
+#: ../includes/metaboxes/post-metabox.php:360
+#: ../includes/metaboxes/shop-metabox.php:396
+msgid "Show / Hide share option in Title bar"
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:372
+#: ../includes/metaboxes/post-metabox.php:374
+#: ../includes/metaboxes/shop-metabox.php:410
+msgid "Facebook share"
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:373
+#: ../includes/metaboxes/post-metabox.php:375
+#: ../includes/metaboxes/shop-metabox.php:411
+msgid "Show / Hide facebook share in Title bar"
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:386
+#: ../includes/metaboxes/post-metabox.php:388
+#: ../includes/metaboxes/shop-metabox.php:424
+msgid "Twitter share"
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:387
+#: ../includes/metaboxes/post-metabox.php:389
+#: ../includes/metaboxes/shop-metabox.php:425
+msgid "Show / Hide twitter share in Title bar"
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:400
+#: ../includes/metaboxes/post-metabox.php:402
+#: ../includes/metaboxes/shop-metabox.php:438
+msgid "Linkedin share"
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:401
+#: ../includes/metaboxes/post-metabox.php:403
+#: ../includes/metaboxes/shop-metabox.php:439
+msgid "Show / Hide linkedin share in Title bar"
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:414
+#: ../includes/metaboxes/post-metabox.php:416
+#: ../includes/metaboxes/shop-metabox.php:452
+msgid "Google plus share"
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:415
+#: ../includes/metaboxes/post-metabox.php:417
+#: ../includes/metaboxes/shop-metabox.php:453
+msgid "Show / Hide gplus share in Title bar"
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:428
+#: ../includes/metaboxes/post-metabox.php:430
+#: ../includes/metaboxes/shop-metabox.php:466
+msgid "Pinterest share"
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:429
+#: ../includes/metaboxes/post-metabox.php:431
+#: ../includes/metaboxes/shop-metabox.php:467
+msgid "Show / Hide pinterest share in Title bar"
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:442
+#: ../includes/metaboxes/post-metabox.php:444
+#: ../includes/metaboxes/shop-metabox.php:480
+msgid "Breadcrumbs"
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:443
+#: ../includes/metaboxes/post-metabox.php:445
+#: ../includes/metaboxes/shop-metabox.php:481
+msgid "Show / Hide breadcrumbs in Title bar"
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:457
+#: ../includes/metaboxes/post-metabox.php:459
+#: ../includes/metaboxes/shop-metabox.php:495
+msgid "Title Bar Right Side"
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:458
+#: ../includes/metaboxes/post-metabox.php:460
+#: ../includes/metaboxes/shop-metabox.php:496
+msgid "Choose which thing you want to display on right side of the title bar?"
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:475
+#: ../includes/metaboxes/post-metabox.php:477
+#: ../includes/metaboxes/shop-metabox.php:513
+msgid "Title bar right side title"
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:476
+#: ../includes/metaboxes/post-metabox.php:478
+#: ../includes/metaboxes/shop-metabox.php:514
+msgid "Type the title bar right side title"
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:479
+#: ../includes/metaboxes/post-metabox.php:481
+#: ../includes/metaboxes/shop-metabox.php:517
+msgid "Share with friends"
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:487
+#: ../includes/metaboxes/post-metabox.php:489
+#: ../includes/metaboxes/shop-metabox.php:525
+msgid "Title Bar Style"
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:488
+#: ../includes/metaboxes/post-metabox.php:490
+#: ../includes/metaboxes/shop-metabox.php:526
+msgid "Choose title bar style"
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:501
+#: ../includes/metaboxes/post-metabox.php:503
+#: ../includes/metaboxes/shop-metabox.php:539
+msgid "Title Bar Background Color"
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:502
+#: ../includes/metaboxes/post-metabox.php:504
+#: ../includes/metaboxes/shop-metabox.php:540
+msgid "Choose Title bar background color. Leave it empty apply default"
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:511
+#: ../includes/metaboxes/post-metabox.php:513
+#: ../includes/metaboxes/shop-metabox.php:549
+msgid "Title Bar Background Image"
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:512
+#: ../includes/metaboxes/post-metabox.php:514
+#: ../includes/metaboxes/shop-metabox.php:550
+msgid ""
+"Choose Title bar background image. Leave it empty apply default from "
+"themeoption"
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:522
+#: ../includes/metaboxes/post-metabox.php:524
+#: ../includes/metaboxes/shop-metabox.php:560
+msgid "Title Bar Overlay Style"
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:523
+#: ../includes/metaboxes/post-metabox.php:525
+#: ../includes/metaboxes/shop-metabox.php:561
+msgid "Choose the title bar background style"
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:539
+#: ../includes/metaboxes/post-metabox.php:541
+#: ../includes/metaboxes/shop-metabox.php:577
+msgid "Select Overlay Color"
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:540
+#: ../includes/metaboxes/post-metabox.php:542
+#: ../includes/metaboxes/shop-metabox.php:578
+msgid "Select the overlay color value"
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:551
+#: ../includes/metaboxes/post-metabox.php:553
+#: ../includes/metaboxes/shop-metabox.php:589
+msgid "Gradient Top Value"
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:552
+#: ../includes/metaboxes/post-metabox.php:554
+#: ../includes/metaboxes/shop-metabox.php:590
+msgid "Select the gradient top value"
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:563
+#: ../includes/metaboxes/post-metabox.php:565
+#: ../includes/metaboxes/shop-metabox.php:601
+msgid "Gradient Middle Value"
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:564
+#: ../includes/metaboxes/post-metabox.php:566
+#: ../includes/metaboxes/shop-metabox.php:602
+msgid "Select the gradient middle value"
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:575
+#: ../includes/metaboxes/post-metabox.php:577
+#: ../includes/metaboxes/shop-metabox.php:613
+msgid "Gradient Bottom Value"
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:576
+#: ../includes/metaboxes/post-metabox.php:578
+#: ../includes/metaboxes/shop-metabox.php:614
+msgid "Select the gradient bottom value"
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:587
+#: ../includes/metaboxes/post-metabox.php:589
+#: ../includes/metaboxes/shop-metabox.php:625
+msgid "Opacity"
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:588
+#: ../includes/metaboxes/post-metabox.php:590
+#: ../includes/metaboxes/shop-metabox.php:626
+msgid ""
+"Type the alpha value. Eg: 0.1 to 1.0. If you want to use the value from "
+"theme option type \"default\""
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:599
+#: ../includes/metaboxes/post-metabox.php:601
+#: ../includes/metaboxes/shop-metabox.php:637
+msgid "Title Bar text Color"
+msgstr ""
+
+#: ../includes/metaboxes/page-metabox.php:600
+#: ../includes/metaboxes/post-metabox.php:602
+#: ../includes/metaboxes/shop-metabox.php:638
+msgid "Choose Title bar text color. Leave it empty apply default"
+msgstr ""
+
+#: ../includes/metaboxes/post-metabox.php:23
+msgid "Post Options"
+msgstr ""
+
+#: ../includes/metaboxes/shop-metabox.php:8
+msgid "Shop Options"
+msgstr ""
+
+#: ../includes/metaboxes/shop-metabox.php:24
+msgid "Product Thumb"
+msgstr ""
+
+#: ../includes/metaboxes/shop-metabox.php:25
+msgid "This is the catelog image for products"
+msgstr ""
+
+#: ../includes/metaboxes/shop-metabox.php:33
+msgid "Product description"
+msgstr ""
+
+#: ../includes/metaboxes/shop-metabox.php:34
+msgid "Enter the product description here if you enable KingComposer"
+msgstr ""
+
+#: ../includes/metaboxes/shop-metabox.php:42
+msgid "Slider Image"
+msgstr ""
+
+#: ../includes/metaboxes/shop-metabox.php:43
+msgid "This image only apply for product slider shortcode"
+msgstr ""
+
+#: ../includes/metaboxes/shop-metabox.php:52
+msgid "Type the slider description"
+msgstr ""
+
+#: ../includes/metaboxes/shop-metabox.php:61
+msgid "Slider Background Text"
+msgstr ""
+
+#: ../includes/metaboxes/shop-metabox.php:62
+msgid "Type the slider background text"
+msgstr ""

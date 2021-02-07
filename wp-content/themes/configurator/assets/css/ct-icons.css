@@ -1,0 +1,202 @@
+@charset "UTF-8";
+
+/* wooCommerce */
+@font-face {
+	font-family: 'star';
+	src:url('../fonts/star/star.eot');
+	src:url('../fonts/star/star.eot?#iefix') format('embedded-opentype'),
+	url('../fonts/star/star.woff') format('woff'),
+	url('../fonts/star/star.ttf') format('truetype'),
+	url('../fonts/star/star.svg#star') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "configurator-icon";
+	src:url("../fonts/configurator-icon.eot");
+	src:url("../fonts/configurator-icon.eot?#iefix") format("embedded-opentype"),
+	url("../fonts/configurator-icon.woff") format("woff"),
+	url("../fonts/configurator-icon.ttf") format("truetype"),
+	url("../fonts/configurator-icon.svg#configurator-icon") format("svg");
+	font-weight: normal;
+	font-style: normal;
+
+}
+
+[data-icon]:before {
+	font-family: "configurator-icon" !important;
+	content: attr(data-icon);
+	font-style: normal !important;
+	font-weight: normal !important;
+	font-variant: normal !important;
+	text-transform: none !important;
+	speak: none;
+	line-height: 1;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+[class^="ct-"]:before,
+[class*=" ct-"]:before {
+	font-family: "configurator-icon" !important;
+	font-style: normal !important;
+	font-weight: normal !important;
+	font-variant: normal !important;
+	text-transform: none !important;
+	speak: none;
+	line-height: 1;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+.ct-search:before {
+	content: "\61";
+}
+.ct-heart:before {
+	content: "\63";
+}
+.ct-cart-icon:before {
+	content: "\62";
+}
+.ct-tags:before {
+	content: "\64";
+}
+.ct-twitter:before {
+	content: "\66";
+}
+.ct-pinterest:before {
+	content: "\67";
+}
+.ct-google-plus:before {
+	content: "\68";
+}
+.ct-quote-2:before {
+	content: "\6b";
+}
+.ct-quote-3:before {
+	content: "\6c";
+}
+.ct-quote-1:before {
+	content: "\69";
+}
+.ct-search-icon:before {
+	content: "\6a";
+}
+.ct-quote-4:before {
+	content: "\6d";
+}
+.ct-prev-arrow:before {
+	content: "\6e";
+}
+.ct-next-arrow:before {
+	content: "\6f";
+}
+.ct-linkedin:before {
+	content: "\70";
+}
+.ct-tumblr:before {
+	content: "\71";
+}
+.ct-facebook:before {
+	content: "\65";
+}
+.ct-instagram:before {
+	content: "\72";
+}
+.ct-rss:before {
+	content: "\73";
+}
+.ct-dribbble:before {
+	content: "\74";
+}
+.ct-flickr:before {
+	content: "\75";
+}
+.ct-down-dir:before {
+	content: "\76";
+}
+.ct-left-dir:before {
+	content: "\77";
+}
+.ct-arrow-combo:before {
+	content: "\78";
+}
+.ct-down-open:before {
+	content: "\79";
+}
+.ct-down-open-big:before {
+	content: "\7a";
+}
+.ct-down-open-mini:before {
+	content: "\41";
+}
+.ct-left-open:before {
+	content: "\42";
+}
+.ct-left-open-big:before {
+	content: "\43";
+}
+.ct-left-open-mini:before {
+	content: "\44";
+}
+.ct-right-dir:before {
+	content: "\45";
+}
+.ct-right-open:before {
+	content: "\46";
+}
+.ct-right-open-big:before {
+	content: "\47";
+}
+.ct-up-dir:before {
+	content: "\48";
+}
+.ct-up-open:before {
+	content: "\49";
+}
+.ct-up-open-big:before {
+	content: "\4a";
+}
+.ct-up-open-mini:before {
+	content: "\4b";
+}
+.ct-right-open-mini:before {
+	content: "\4c";
+}
+.ct-check:before {
+	content: "\4d";
+}
+.ct-check-1:before {
+	content: "\4e";
+}
+.ct-refresh:before {
+	content: "\51";
+}
+.ct-cancel:before {
+	content: "\52";
+}
+.ct-copy:before {
+	content: "\54";
+}
+.ct-eye:before {
+	content: "\53";
+}
+.ct-pencil:before {
+	content: "\55";
+}
+.ct-trash:before {
+	content: "\56";
+}
+.ct-reset:before {
+	content: "\57";
+}
+.ct-close:before {
+	content: "\4f";
+}
+.ct-inspiration:before {
+	content: "\50";
+}
+.ct-screenshot:before {
+	content: "\58";
+}

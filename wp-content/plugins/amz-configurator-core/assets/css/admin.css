@@ -1,0 +1,45 @@
+/* System Status */
+.left-side {
+	float: left;
+	margin-right: 40px;
+	border-right: 1px solid #dcdcdc;
+	padding-right: 40px;
+}
+
+.right-side {
+	float: left;
+}
+
+.left-right-side ul {
+	background: #fff;
+	padding: 20px;
+}
+
+.left-right-side li {
+	padding-bottom: 10px;
+	border-bottom: 1px solid #ccc;
+	margin-bottom: 10px;
+}
+
+.left-right-side li:last-child {
+	margin-bottom: 0;
+	border-bottom: none;
+	padding-block-end: 0;
+}
+
+.dashicons-yes {
+	color: #0bb70b;
+}
+
+.dashicons-no {
+	color: #ff2c2c;
+}
+
+.left-right-side li .label {
+	width: 170px;
+	display: inline-block;
+}
+
+p.status-notice.status-error {
+	margin-top: 0;
+}

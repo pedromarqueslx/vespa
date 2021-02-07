@@ -1,0 +1,10 @@
+/*!
+ * Retina.js v2.0 ( Modified: https://github.com/honpery/retinajs/blob/5f63755ca168c3883b1871a1a749236ab4420634/dist/retina.js )
+ *
+ * Copyright 2016 Axial, LLC
+ * Released under the MIT license
+ *
+ * Retina.js is an open source script that makes it easy to serve
+ * high-resolution images to devices with retina displays.
+ */
+!function(e,t){if("function"==typeof define&&define.amd)define(["exports"],t);else if("undefined"!=typeof exports)t(exports);else{var n={exports:{}};t(n.exports),e.retina=n.exports}}(this,function(e){"use strict";function t(e){var t=parseInt(e,10);return t>f?f:t}function n(e){return e.hasAttribute("data-no-resize")||(0===e.offsetWidth&&0===e.offsetHeight?(e.setAttribute("width",e.naturalWidth),e.setAttribute("height",e.naturalHeight)):(e.setAttribute("width",e.offsetWidth),e.setAttribute("height",e.offsetHeight))),e}function r(e,t){var r=e.nodeName.toLowerCase(),i=document.createElement("img");i.addEventListener("load",function(){"img"===r?n(e).setAttribute("src",t):e.style.backgroundImage="url("+t+")"}),i.setAttribute("src",t)}function i(e,n){var i=arguments.length<=2||void 0===arguments[2]?1:arguments[2],o=t(i);if(n&&o>1){var a=n.replace(c,"@"+o+"x$1");r(e,a)}}function o(e,t,n){f>1&&r(e,n)}function a(){return"undefined"!=typeof document?Array.prototype.slice.call(document.querySelectorAll(g)):[]}function u(e){return e.style.backgroundImage.replace(l,"$2")}function s(){a().forEach(function(e){var t="img"===e.nodeName.toLowerCase(),n=t?e.getAttribute("src"):u(e),r=e.getAttribute("data-rjs"),a=!isNaN(parseInt(r,10));a?i(e,n,r):o(e,n,r)})}Object.defineProperty(e,"__esModule",{value:!0});var d="undefined"!=typeof window,f=d?window.devicePixelRatio||1:1,c=/(\.[A-z]{3,4}\/?(\?.*)?)$/,l=/url\(('|")?([^\)'"]+)('|")?\)/i,g="[data-rjs]";d&&(window.addEventListener("load",s),window.retinajs=s),e["default"]=s});

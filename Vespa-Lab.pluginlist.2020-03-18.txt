@@ -1,0 +1,56 @@
+------------------------------------------------------------
+  Plugin list generated with BackWPup version: 3.7.0
+  http://backwpup.com
+  Blog Name: Vespa Lab
+  Blog URL: https://www.vespalab.ch/NP_2020/vespalab
+  Generated on: 2020-03-18 11:19.01
+------------------------------------------------------------
+
+
+All plugin information:
+------------------------------
+Akismet Anti-Spam (v.4.1.4) from Automattic
+	https://akismet.com/
+BackWPup (v.3.7.0) from Inpsyde GmbH
+	http://backwpup.com
+Coming Soon Page, Under Construction & Maintenance Mode by SeedProd (v.5.1.0) from SeedProd
+	http://www.seedprod.com
+Duplicator (v.1.3.28) from Snap Creek
+	https://snapcreek.com/duplicator/duplicator-free/
+Facebook for WooCommerce (v.1.10.2) from Facebook
+	https://github.com/facebookincubator/facebook-for-woocommerce/
+Hello Dolly (v.1.7.2) from Matt Mullenweg
+	http://wordpress.org/plugins/hello-dolly/
+Jetpack by WordPress.com (v.8.3) from Automattic
+	https://jetpack.com
+Mailchimp for WooCommerce (v.2.3.5) from Mailchimp
+	https://mailchimp.com/connect-your-store/
+Really Simple SSL (v.3.2.9) from Rogier Lankhorst, Mark Wolters
+	https://www.really-simple-ssl.com
+SVG Support (v.2.3.17) from Benbodhi
+	http://wordpress.org/plugins/svg-support/
+UpdraftPlus - Backup/Restore (v.1.16.22) from UpdraftPlus.Com, DavidAnderson
+	https://updraftplus.com
+WooCommerce (v.4.0.0) from Automattic
+	https://woocommerce.com/
+WooCommerce Admin (v.1.0.2) from WooCommerce
+	https://github.com/woocommerce/woocommerce-admin
+
+Active plugins:
+------------------------------
+BackWPup
+Coming Soon Page, Under Construction & Maintenance Mode by SeedProd
+Duplicator
+Jetpack by WordPress.com
+Really Simple SSL
+SVG Support
+WooCommerce
+WooCommerce Admin
+
+Inactive plugins:
+------------------------------
+Akismet Anti-Spam
+Facebook for WooCommerce
+Hello Dolly
+Mailchimp for WooCommerce
+UpdraftPlus - Backup/Restore
